@@ -1,0 +1,1650 @@
+{"text": "when will my application for my credit card be processed", "intent": "application status"}
+{"text": "has the discover card approved my app", "intent": "application status"}
+{"text": "do you know if my amex card app went through", "intent": "application status"}
+{"text": "have they looked over my app for the new credit card yet", "intent": "application status"}
+{"text": "has my application for the mastercard card gone through", "intent": "application status"}
+{"text": "have my app for a new card been processed yet", "intent": "application status"}
+{"text": "has the application i put in for a new visa been processed", "intent": "application status"}
+{"text": "has there been any notice that my card app has been looked at", "intent": "application status"}
+{"text": "has visa gotten back to me regarding my card app", "intent": "application status"}
+{"text": "see if my form submission for an american express card has been seen", "intent": "application status"}
+{"text": "do you know if anyone's even looked at the application i sent in for the new visa card", "intent": "application status"}
+{"text": "has anyone looked at my mastercard application", "intent": "application status"}
+{"text": "have i gotten confirmation for my credit card app", "intent": "application status"}
+{"text": "can you check if my application for a discovery card has been looked over yet", "intent": "application status"}
+{"text": "is there any indication my application for a new credit card has been processed", "intent": "application status"}
+{"text": "i put in a credit card application, so what is the status with it currently", "intent": "application status"}
+{"text": "did my visa card app go through yet", "intent": "application status"}
+{"text": "did my chase card application go through yet", "intent": "application status"}
+{"text": "do you know the status of the credit card application i filed", "intent": "application status"}
+{"text": "has the application for my visa been processed", "intent": "application status"}
+{"text": "i filed a credit card application so what is going on with it", "intent": "application status"}
+{"text": "did my american express card application go through yet", "intent": "application status"}
+{"text": "what is the status of the application for a credit card i put in", "intent": "application status"}
+{"text": "has the application for my american express been processed yet", "intent": "application status"}
+{"text": "my credit card application has what status", "intent": "application status"}
+{"text": "where can i go to see if my credit card application has been processed", "intent": "application status"}
+{"text": "will i be notified when my application has been processed", "intent": "application status"}
+{"text": "what is the status of my credit card application", "intent": "application status"}
+{"text": "how will i know when my application for a credit card has been processed", "intent": "application status"}
+{"text": "where can i find out the status of my credit card application", "intent": "application status"}
+{"text": "tell me if my application has been processed yet, i signed up for a credit card recently", "intent": "application status"}
+{"text": "can you check and see if my credit card application has been approved or not", "intent": "application status"}
+{"text": "has my application for a trust bank credit card been mailed out and if so was i approved or not", "intent": "application status"}
+{"text": "could you check and see if my credit card application has been processed and approved or not", "intent": "application status"}
+{"text": "i want to know if my application for a credit card at community bank has been approved or not", "intent": "application status"}
+{"text": "can you find out if my application at smith bank was approved or not  i applied for s credit card a month ago", "intent": "application status"}
+{"text": "can you tell me if my application for a credit card has been processed yet it was at chase bank", "intent": "application status"}
+{"text": "was my application approved or not for a credit card at chase bank", "intent": "application status"}
+{"text": "i want an update on my application for a credit card that i sent in a couple weeks ago", "intent": "application status"}
+{"text": "i haven't heard if my application for a credit card has been accepted or not can you check on it for me", "intent": "application status"}
+{"text": "please look into the latest status of my credit card application", "intent": "application status"}
+{"text": "can you update me on the status of my american express card application", "intent": "application status"}
+{"text": "can you find out the latest on my credit card application, i haven't heard an update in some time", "intent": "application status"}
+{"text": "find out for me if my amex card application was received", "intent": "application status"}
+{"text": "can you check the status of my credit card application", "intent": "application status"}
+{"text": "how can i track the progress of my credit card application", "intent": "application status"}
+{"text": "has my credit card application been received, or what is its current status", "intent": "application status"}
+{"text": "i need to know what the latest is with my application for a visa credit card", "intent": "application status"}
+{"text": "please check the status of my mastercard application", "intent": "application status"}
+{"text": "do you know what the latest is with my credit card application", "intent": "application status"}
+{"text": "i would like an update on the progress of my credit card application", "intent": "application status"}
+{"text": "update me on the status of my credit card application", "intent": "application status"}
+{"text": "please get me an update on the status of my credit card application", "intent": "application status"}
+{"text": "has there been any changes in the status of my credit card application", "intent": "application status"}
+{"text": "please find out the current status of my credit card application", "intent": "application status"}
+{"text": "i want to be updated on the most recent status of my credit card application", "intent": "application status"}
+{"text": "tell me the present status of the credit card application i submitted", "intent": "application status"}
+{"text": "look into the status of the credit card application i submitted recently for my new card", "intent": "application status"}
+{"text": "look to see if my application for the barclay's card has gone through yet", "intent": "application status"}
+{"text": "i want to know if my credit card application has been processed yet", "intent": "application status"}
+{"text": "i need to know if the application been processed", "intent": "application status"}
+{"text": "tell me straight if it has been processed or not", "intent": "application status"}
+{"text": "can you tell me when my credit card application will be processed", "intent": "application status"}
+{"text": "how much longer until my credit card application is checked", "intent": "application status"}
+{"text": "when will my credit card app be approved", "intent": "application status"}
+{"text": "has my credit card application gone through", "intent": "application status"}
+{"text": "check on my credit card application", "intent": "application status"}
+{"text": "do i have any updates about my credit card application", "intent": "application status"}
+{"text": "has my credit card application been processed", "intent": "application status"}
+{"text": "have i received any messages about my credit card application", "intent": "application status"}
+{"text": "when can i hear the decision on my credit card application", "intent": "application status"}
+{"text": "my credit card application status", "intent": "application status"}
+{"text": "i applied for the credit card, have you processed my application", "intent": "application status"}
+{"text": "how long to process my credit card application", "intent": "application status"}
+{"text": "how is my application on new credit card going", "intent": "application status"}
+{"text": "what is the status of my new credit card application", "intent": "application status"}
+{"text": "is my application processed for credit card", "intent": "application status"}
+{"text": "help with credit card application status", "intent": "application status"}
+{"text": "is my credit card application approved", "intent": "application status"}
+{"text": "what is the status of my application for the credit card", "intent": "application status"}
+{"text": "has my credit card application been processed yet", "intent": "application status"}
+{"text": "what's the current status of the credit card i applied for", "intent": "application status"}
+{"text": "in what status is my credit card application", "intent": "application status"}
+{"text": "did the application i put in for a mastercard go through yet", "intent": "application status"}
+{"text": "has my application for a new credit card been processed", "intent": "application status"}
+{"text": "has my amex application gone through yet", "intent": "application status"}
+{"text": "i applied for a visa card; did that go through", "intent": "application status"}
+{"text": "what status is my card application in", "intent": "application status"}
+{"text": "did they process the credit card i applied for", "intent": "application status"}
+{"text": "i applied for a new credit card; did it process yet", "intent": "application status"}
+{"text": "did discover get my card application yet", "intent": "application status"}
+{"text": "tell me about my american express application; did it go through", "intent": "application status"}
+{"text": "tell me a little more about the status of my credit card application", "intent": "application status"}
+{"text": "tell me the status of my credit card application", "intent": "application status"}
+{"text": "is the processing done on my new credit card", "intent": "application status"}
+{"text": "i'm desperate to know about my cc processing", "intent": "application status"}
+{"text": "have you heard anything back on my cc application", "intent": "application status"}
+{"text": "is it likely my credit card application has processed yet", "intent": "application status"}
+{"text": "has my credit card application been approved", "intent": "application status"}
+{"text": "when will my cc application process", "intent": "application status"}
+{"text": "verify that i have reservations at chilis for john doe", "intent": "confirm reservation"}
+{"text": "can you check my reservations for mortons under david winters", "intent": "confirm reservation"}
+{"text": "can you check for reservations at wongs chinese for john acer", "intent": "confirm reservation"}
+{"text": "check and confirm reservations at ruth chris for carol lee", "intent": "confirm reservation"}
+{"text": "verify that my reservations at won wons for joe lee are good", "intent": "confirm reservation"}
+{"text": "check on my reservation for umami at 6pm", "intent": "confirm reservation"}
+{"text": "confirm a reservation for nicole brown at diangelo's at 6:45 pm, please", "intent": "confirm reservation"}
+{"text": "i need you to confirm that there is a reservation under the name david kramer for 7:00 pm at pietro's", "intent": "confirm reservation"}
+{"text": "i would like to confirm my 7:30 pm reservation at morton's steakhouse, under michael james", "intent": "confirm reservation"}
+{"text": "can you please confirm that i have a 6:00 pm table reserved under michelle solomon at devon's", "intent": "confirm reservation"}
+{"text": "please confirm my reservation at parc for 8:00 pm, with the name denise jack", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for thursday at 10am", "intent": "confirm reservation"}
+{"text": "does it show me as having a reservation for tomorrow at 5", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for 6 at the outback", "intent": "confirm reservation"}
+{"text": "can you check that i have a reservation on february 28th for 3 in the afternoon", "intent": "confirm reservation"}
+{"text": "i want to make sure my reservation for 5 at mcdonalds is still set", "intent": "confirm reservation"}
+{"text": "i want to verify my reservation for the 18th at 1pm", "intent": "confirm reservation"}
+{"text": "do i have a reservation for may 1st, 2019 at 4 pm", "intent": "confirm reservation"}
+{"text": "can you verify that i have a reservation at o'reilly's for 9", "intent": "confirm reservation"}
+{"text": "can you assure me i have a table at taco bell at 7pm", "intent": "confirm reservation"}
+{"text": "is my 10am village inn reservation valid", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for morton's at 5 pm", "intent": "confirm reservation"}
+{"text": "do i have reservations at o'neal's at 3 pm", "intent": "confirm reservation"}
+{"text": "is my reservation confirmed for lu shi at 7 pm", "intent": "confirm reservation"}
+{"text": "confirm my reservation at dino's at 6 pm", "intent": "confirm reservation"}
+{"text": "please tell me if my reservation is scheduled for sally's at 3 pm", "intent": "confirm reservation"}
+{"text": "check to see if i have reservations at prado at 6 pm", "intent": "confirm reservation"}
+{"text": "tell me if i have reservations at the back abbey at 6 pm", "intent": "confirm reservation"}
+{"text": "do you know if my reservation for dono is confirmed at 8 pm", "intent": "confirm reservation"}
+{"text": "do i have reservations at creme at 7 pm", "intent": "confirm reservation"}
+{"text": "i need to know if i have reservations at arufflo at 5 pm", "intent": "confirm reservation"}
+{"text": "i really need you to confirm my reservation for kevin at red robin", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for kevin at red robin", "intent": "confirm reservation"}
+{"text": "i wanna confirm my reservation for 2/20 at 8 pm", "intent": "confirm reservation"}
+{"text": "i'd like to confirm my reservation for 2/20 at 8 pm", "intent": "confirm reservation"}
+{"text": "i would like for you to confirm my reservation for red robin at 5 pm", "intent": "confirm reservation"}
+{"text": "i must confirm my reservation for 2/20 at 8 pm", "intent": "confirm reservation"}
+{"text": "i really want to confirm that i have a reservation at red robin for josh", "intent": "confirm reservation"}
+{"text": "i need you to confirm my reservation for kevin at red robin", "intent": "confirm reservation"}
+{"text": "will you confirm my reservation for red robin at 10", "intent": "confirm reservation"}
+{"text": "i wanna try and confirm that i have a reservation at red robin for josh", "intent": "confirm reservation"}
+{"text": "i need to confirm that i have a reservation at red robin for josh", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for red robin at 9", "intent": "confirm reservation"}
+{"text": "i wish to confirm that i have a reservation at red robin for josh", "intent": "confirm reservation"}
+{"text": "i need to confirm my reservation for 2/20 at 8 pm", "intent": "confirm reservation"}
+{"text": "go ahead and confirm my reservation for kevin at red robin", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for 2/20 at 8 pm", "intent": "confirm reservation"}
+{"text": "confirm my reservation for red robin at 8", "intent": "confirm reservation"}
+{"text": "i need you to confirm my reservation for outback steakhouse at 6", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for kevin at red robin", "intent": "confirm reservation"}
+{"text": "i'd like to confirm that i have a reservation at red robin for josh", "intent": "confirm reservation"}
+{"text": "will you make sure robert has a reservation at ruth's steakhouse", "intent": "confirm reservation"}
+{"text": "do i still have the reservation on march 21 at 8pm", "intent": "confirm reservation"}
+{"text": "can you check that there's a reservation for mark at sidetracks", "intent": "confirm reservation"}
+{"text": "will you check there is a reservation for laura at black pearl", "intent": "confirm reservation"}
+{"text": "i need to make sure there is a reservation for george at connor oneil's", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for 6 pm on the 13th of february", "intent": "confirm reservation"}
+{"text": "can you confirm i have a reservation at 5 pm on march 13th", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for 8 pm on the 7th of november", "intent": "confirm reservation"}
+{"text": "please confirm i have a reservation for 2 pm on february 21st", "intent": "confirm reservation"}
+{"text": "can you verify mike has a reservation at black rock at 6 pm", "intent": "confirm reservation"}
+{"text": "i want my reservation for march 1 at 8 pm confirmed", "intent": "confirm reservation"}
+{"text": "will you please confirm my reservation for march 11 at 6:30 pm", "intent": "confirm reservation"}
+{"text": "i would like you to confirm my reservation for next saturday at 11 am", "intent": "confirm reservation"}
+{"text": "i need you to confirm my reservation for tomorrow at 3 pm", "intent": "confirm reservation"}
+{"text": "check to confirm my reservation for february 22 at noon", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at houlihan\u2019s for mike", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at the seven dwarves for peter", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at hu hot for paulie", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at macaroni grill for saul", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at chili\u2019s for melinda", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at macaroni grill for silva", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at kelly's for moreno", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at la palapa for bolding", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at gusteau's for krystine", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at chili's for jamie", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for jim at lawry's", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for dave at outback steakhouse", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for lance at morton's", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for steve at olive garden", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for jaime at red lobster", "intent": "confirm reservation"}
+{"text": "i'd like for you to make sure my reservation is there for charlie's under jack", "intent": "confirm reservation"}
+{"text": "can you check and see i have a reservation under alex for bon apetite", "intent": "confirm reservation"}
+{"text": "can you verify my reservation under steve for friendly's", "intent": "confirm reservation"}
+{"text": "make sure my reservation is happening for john at olive garden", "intent": "confirm reservation"}
+{"text": "double check my reservation under adam for outback steakhouse", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for april 1st at 9am", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for march 8th at 12:00", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for donnobys at 5:00", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for minnis at 4:00", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for may 9th at 4pm", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for march 1st at 2pm", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for torris at 7:00", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for applebees at 2:00", "intent": "confirm reservation"}
+{"text": "can you confirm my reservation for chillis at 8:00", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for feburary 21st at 6pm", "intent": "confirm reservation"}
+{"text": "confirm my taco house reservation for jean", "intent": "confirm reservation"}
+{"text": "can you you confirm my reservation for jean at taco house", "intent": "confirm reservation"}
+{"text": "does taco house have a reservation for jean", "intent": "confirm reservation"}
+{"text": "i would like to check my reservation for jean at taco house", "intent": "confirm reservation"}
+{"text": "how high are the rewards on my discover card", "intent": "rewards balance"}
+{"text": "how many rewards do i now have on my hy-vee card", "intent": "rewards balance"}
+{"text": "what's the current reward amount on my mastercard", "intent": "rewards balance"}
+{"text": "what's my current reward balance on my amex card", "intent": "rewards balance"}
+{"text": "what's my visa's current rewards balance", "intent": "rewards balance"}
+{"text": "how many reward points have stacked up for my amex card", "intent": "rewards balance"}
+{"text": "how many reward points do i have available to redeem on my visa", "intent": "rewards balance"}
+{"text": "what's the current reward amount on my visa", "intent": "rewards balance"}
+{"text": "what's the reward point count on my discover card", "intent": "rewards balance"}
+{"text": "what is my american express card's rewards balance", "intent": "rewards balance"}
+{"text": "what is my chase card's rewards balance", "intent": "rewards balance"}
+{"text": "what is my wells fargo card's rewards balance", "intent": "rewards balance"}
+{"text": "what is my citigroup card's rewards balance", "intent": "rewards balance"}
+{"text": "what is my bank of america card's rewards balance", "intent": "rewards balance"}
+{"text": "how can i see my rewards for my visa card", "intent": "rewards balance"}
+{"text": "tell me how to check my rewards for my american express card", "intent": "rewards balance"}
+{"text": "how can i look at rewards for my amex card", "intent": "rewards balance"}
+{"text": "tell me how to check rewards for my mastercard", "intent": "rewards balance"}
+{"text": "where are rewards from my visa card visible", "intent": "rewards balance"}
+{"text": "what is my current reward point total on my visa card", "intent": "rewards balance"}
+{"text": "how would i be able to check my kohls rewards card", "intent": "rewards balance"}
+{"text": "i need to know my reward point total looking at my debit card", "intent": "rewards balance"}
+{"text": "do i have enough points on my starbucks card yet", "intent": "rewards balance"}
+{"text": "help me check my visa rewards card", "intent": "rewards balance"}
+{"text": "can i check my gold rewards card online", "intent": "rewards balance"}
+{"text": "can you tell me how many points i have on my kohls card", "intent": "rewards balance"}
+{"text": "what is the easiest way to check my bank rewards card", "intent": "rewards balance"}
+{"text": "is there a better way to check my visa rewards card balance", "intent": "rewards balance"}
+{"text": "how many points are on my gold card", "intent": "rewards balance"}
+{"text": "what's the amount of points i have earned with my discover card", "intent": "rewards balance"}
+{"text": "i wonder how many points i have earned with my bank of america card", "intent": "rewards balance"}
+{"text": "have i earned a lot of points on my capital one card", "intent": "rewards balance"}
+{"text": "can you tell me how many points i have to date with my capital one miles card", "intent": "rewards balance"}
+{"text": "what's the total number of points i earned so far with my chase rewards card", "intent": "rewards balance"}
+{"text": "how many points have i already accrued on my chase mastercard", "intent": "rewards balance"}
+{"text": "i would like my total rewards points balance on my bank of america platinum rewards card, please", "intent": "rewards balance"}
+{"text": "i need to hear how many points i've obtained on my capital one visa", "intent": "rewards balance"}
+{"text": "how many points did i get on my discover card", "intent": "rewards balance"}
+{"text": "how many points did my visa earn", "intent": "rewards balance"}
+{"text": "what points were earned on my mastercard", "intent": "rewards balance"}
+{"text": "how many points have been earned on my amex", "intent": "rewards balance"}
+{"text": "how many points did i get on my visa card", "intent": "rewards balance"}
+{"text": "what's the balance of my reward points on my discover card", "intent": "rewards balance"}
+{"text": "i need to know my rewards balance on my discover card", "intent": "rewards balance"}
+{"text": "what's my discover card reward balance", "intent": "rewards balance"}
+{"text": "what's my rewards balance on my discover", "intent": "rewards balance"}
+{"text": "what is the reward balance on my discover card", "intent": "rewards balance"}
+{"text": "how many rewards points do i have for my visa card", "intent": "rewards balance"}
+{"text": "how many rewards points do i have for my wells fargo card", "intent": "rewards balance"}
+{"text": "how many rewards points do i have for my amazon card", "intent": "rewards balance"}
+{"text": "how many rewards points do i have for my chase card", "intent": "rewards balance"}
+{"text": "how many rewards points do i have for my mastercard", "intent": "rewards balance"}
+{"text": "what is my points total for my mastercard", "intent": "rewards balance"}
+{"text": "what's my total point number on my mastercard", "intent": "rewards balance"}
+{"text": "how many points do i have on my mastercard", "intent": "rewards balance"}
+{"text": "what is the number of points i earned with my mastercard", "intent": "rewards balance"}
+{"text": "how many points have i accumulated on my mastercard", "intent": "rewards balance"}
+{"text": "how can i see my rewards for my chase card", "intent": "rewards balance"}
+{"text": "where can i find my rewards for my chase card", "intent": "rewards balance"}
+{"text": "what do i have to do to see my rewards for my chase card", "intent": "rewards balance"}
+{"text": "how do i see me rewards for my chase card", "intent": "rewards balance"}
+{"text": "where are my rewards for my chase card", "intent": "rewards balance"}
+{"text": "what's the point balance on my marriot rewards card", "intent": "rewards balance"}
+{"text": "how many points do i have in total on my marriot rewards card", "intent": "rewards balance"}
+{"text": "show me the total up to date points on the marriot rewards card", "intent": "rewards balance"}
+{"text": "my marriot rewards card has how much for a point total", "intent": "rewards balance"}
+{"text": "give my my current points on my marriot rewards card", "intent": "rewards balance"}
+{"text": "can you tell me my starbucks rewards balance", "intent": "rewards balance"}
+{"text": "can you help me tell what my starbucks rewards balance is", "intent": "rewards balance"}
+{"text": "what is the remainder of my starbucks rewards balance", "intent": "rewards balance"}
+{"text": "my starbucks rewards balance is", "intent": "rewards balance"}
+{"text": "what is the total amount of my starbucks rewards balance", "intent": "rewards balance"}
+{"text": "i have how many points on my amex right now", "intent": "rewards balance"}
+{"text": "how many points are on my speedway card right now", "intent": "rewards balance"}
+{"text": "i have how many tier credits on my caesar's card", "intent": "rewards balance"}
+{"text": "how many points do i have on my mlife card", "intent": "rewards balance"}
+{"text": "how many delta miles are on my card right now", "intent": "rewards balance"}
+{"text": "how many rewards do i have on my chase card", "intent": "rewards balance"}
+{"text": "how do i find out my rewards balance on my chase card", "intent": "rewards balance"}
+{"text": "can i check my visa reward balance online", "intent": "rewards balance"}
+{"text": "when can i receive rewards on my visa card", "intent": "rewards balance"}
+{"text": "how do i check how many rewards i have on my master card", "intent": "rewards balance"}
+{"text": "how do i check my rewards for my gold card", "intent": "rewards balance"}
+{"text": "what rewards does my gold card get", "intent": "rewards balance"}
+{"text": "where do i find my gold card rewards", "intent": "rewards balance"}
+{"text": "what is the number of remaining rewards points on my chase card", "intent": "rewards balance"}
+{"text": "i need to find out the rewards points i have left on my american express card", "intent": "rewards balance"}
+{"text": "what is the amount of rewards points on my visa card", "intent": "rewards balance"}
+{"text": "do you know how many rewards points are currently on my discover card", "intent": "rewards balance"}
+{"text": "does my mastercard have any rewards points remaining", "intent": "rewards balance"}
+{"text": "put my points up for master card", "intent": "rewards balance"}
+{"text": "figure out my reward points for discovery card", "intent": "rewards balance"}
+{"text": "add all of my points for my current discover card", "intent": "rewards balance"}
+{"text": "calculate my points for visa", "intent": "rewards balance"}
+{"text": "add up my reward points for master card", "intent": "rewards balance"}
+{"text": "what the current balance of reward points on my mastercard", "intent": "rewards balance"}
+{"text": "what's my reward balance on my amex card", "intent": "rewards balance"}
+{"text": "how do i get my rewards balance on my diner's club card", "intent": "rewards balance"}
+{"text": "how many reward points does my discover card have", "intent": "rewards balance"}
+{"text": "tell me how to check rewards on my american express card", "intent": "rewards balance"}
+{"text": "how's the air pressure in my tires", "intent": "tire pressure"}
+{"text": "what's my tires current air pressure", "intent": "tire pressure"}
+{"text": "what's the amount of air in my tires right now", "intent": "tire pressure"}
+{"text": "are my tire's air pressure good enough to drive on", "intent": "tire pressure"}
+{"text": "what's the inflation of my tires", "intent": "tire pressure"}
+{"text": "what's the current psi for my tires", "intent": "tire pressure"}
+{"text": "how low is the pressure in my tires", "intent": "tire pressure"}
+{"text": "what's the current tire pressure of my tires", "intent": "tire pressure"}
+{"text": "is the air pressure in my tires low", "intent": "tire pressure"}
+{"text": "what's my current tire pressure", "intent": "tire pressure"}
+{"text": "is the air pressure on my tires low", "intent": "tire pressure"}
+{"text": "do i need to fill up my tires", "intent": "tire pressure"}
+{"text": "are my tires in need of air", "intent": "tire pressure"}
+{"text": "should i put air in my tires", "intent": "tire pressure"}
+{"text": "are my tires requiring a fill-up", "intent": "tire pressure"}
+{"text": "are my tires good on air", "intent": "tire pressure"}
+{"text": "have my tires got adequate amounts of air in them", "intent": "tire pressure"}
+{"text": "do i need more air in my tires", "intent": "tire pressure"}
+{"text": "should i be concerned about the air in my tires", "intent": "tire pressure"}
+{"text": "how is the air level in my tires", "intent": "tire pressure"}
+{"text": "how much air is in my tires", "intent": "tire pressure"}
+{"text": "is there air in my tires", "intent": "tire pressure"}
+{"text": "air amount in tires", "intent": "tire pressure"}
+{"text": "how high is the air in my tires", "intent": "tire pressure"}
+{"text": "how much air remains in my tires", "intent": "tire pressure"}
+{"text": "what is the tire pressure in my car", "intent": "tire pressure"}
+{"text": "are my tires full or low", "intent": "tire pressure"}
+{"text": "what is the current tire pressure level in the car", "intent": "tire pressure"}
+{"text": "tell me my car's tires' air pressure", "intent": "tire pressure"}
+{"text": "do i need to fill my tires", "intent": "tire pressure"}
+{"text": "tell me my tires' air pressure", "intent": "tire pressure"}
+{"text": "what's my tires' air pressure", "intent": "tire pressure"}
+{"text": "what's my car's tire pressure", "intent": "tire pressure"}
+{"text": "what is the air pressure in my tires", "intent": "tire pressure"}
+{"text": "can you tell me the tire pressure in my car", "intent": "tire pressure"}
+{"text": "what's my air pressure right now", "intent": "tire pressure"}
+{"text": "what's the air level in my tires", "intent": "tire pressure"}
+{"text": "tell me my car's tire pressure level", "intent": "tire pressure"}
+{"text": "how many psi's are my tires at the moment", "intent": "tire pressure"}
+{"text": "the car feels wobbly so check my tire pressure", "intent": "tire pressure"}
+{"text": "what is my current tire pressure for each tire", "intent": "tire pressure"}
+{"text": "tell me ths pressure of my tires", "intent": "tire pressure"}
+{"text": "please measure my tire pressure", "intent": "tire pressure"}
+{"text": "the cars riding funny, does the tire pressure feel low to you", "intent": "tire pressure"}
+{"text": "can you check the tire pressure", "intent": "tire pressure"}
+{"text": "do the tires look a little low on pressure", "intent": "tire pressure"}
+{"text": "what is the pressure like on my tires", "intent": "tire pressure"}
+{"text": "measure tire pressure", "intent": "tire pressure"}
+{"text": "check my car's tire pressure", "intent": "tire pressure"}
+{"text": "gauge the tire pressure", "intent": "tire pressure"}
+{"text": "how much pressure is in my car's tire", "intent": "tire pressure"}
+{"text": "what is my car's tire pressure", "intent": "tire pressure"}
+{"text": "are my tires fully inflated", "intent": "tire pressure"}
+{"text": "do i need to inflate my tires", "intent": "tire pressure"}
+{"text": "are my tires aired properly", "intent": "tire pressure"}
+{"text": "are my tires ok on pressure", "intent": "tire pressure"}
+{"text": "is the pressure in my tires optimal", "intent": "tire pressure"}
+{"text": "are my tires properly inflated with air", "intent": "tire pressure"}
+{"text": "are my tires good on pressure", "intent": "tire pressure"}
+{"text": "do my tires have enough air", "intent": "tire pressure"}
+{"text": "please check and report on my tire pressure", "intent": "tire pressure"}
+{"text": "how's my tire pressure", "intent": "tire pressure"}
+{"text": "i want an evaluation of my car's tire pressure", "intent": "tire pressure"}
+{"text": "can you give me a reading of my car's tire pressure please", "intent": "tire pressure"}
+{"text": "i would like to know my car's tire pressure please", "intent": "tire pressure"}
+{"text": "how are my tires", "intent": "tire pressure"}
+{"text": "are my tires low", "intent": "tire pressure"}
+{"text": "should i air up the tires", "intent": "tire pressure"}
+{"text": "do the tires need air", "intent": "tire pressure"}
+{"text": "how is the tire pressure", "intent": "tire pressure"}
+{"text": "how much pressure are currently in my tires", "intent": "tire pressure"}
+{"text": "how much pressure is in my tires", "intent": "tire pressure"}
+{"text": "whats the pressure like in my tires", "intent": "tire pressure"}
+{"text": "how are the tires on air pressure", "intent": "tire pressure"}
+{"text": "please check the pressure in my tires", "intent": "tire pressure"}
+{"text": "hows the air in my tires", "intent": "tire pressure"}
+{"text": "i am needing to know how low the air in my tires are", "intent": "tire pressure"}
+{"text": "tell me how low the air in my tires are", "intent": "tire pressure"}
+{"text": "i want to know how low the air in my tires are", "intent": "tire pressure"}
+{"text": "let me know how low the air in my tires are", "intent": "tire pressure"}
+{"text": "would you let me know how low the air in my tires are", "intent": "tire pressure"}
+{"text": "what does my tire pressure look like", "intent": "tire pressure"}
+{"text": "are my tires under-inflated", "intent": "tire pressure"}
+{"text": "is my tire pressure in the correct range", "intent": "tire pressure"}
+{"text": "do my tires need air", "intent": "tire pressure"}
+{"text": "should i pump my tires", "intent": "tire pressure"}
+{"text": "are my tires low on air", "intent": "tire pressure"}
+{"text": "do my tires seem too low on air", "intent": "tire pressure"}
+{"text": "would it be smart to put air in my tires", "intent": "tire pressure"}
+{"text": "what's the tire pressure of my car", "intent": "tire pressure"}
+{"text": "is my tire pressure okay", "intent": "tire pressure"}
+{"text": "can you tell me what's the car's tire pressure", "intent": "tire pressure"}
+{"text": "tire pressure please", "intent": "tire pressure"}
+{"text": "can you check my tire pressure", "intent": "tire pressure"}
+{"text": "can you tell me what my tire pressure is", "intent": "tire pressure"}
+{"text": "can you check the air in my tires", "intent": "tire pressure"}
+{"text": "check how much air is in my tires", "intent": "tire pressure"}
+{"text": "how much air do i have in my tires", "intent": "tire pressure"}
+{"text": "tell me what my tire pressure is", "intent": "tire pressure"}
+{"text": "how full are my tires", "intent": "tire pressure"}
+{"text": "what are the things that i have for today", "intent": "todo list"}
+{"text": "what is left to do today", "intent": "todo list"}
+{"text": "what do i have to do today", "intent": "todo list"}
+{"text": "the tasks for today, what are they", "intent": "todo list"}
+{"text": "i need to know what my to-do list is looking like", "intent": "todo list"}
+{"text": "is cleaning the kitchen coming up on my list of things i have to do today", "intent": "todo list"}
+{"text": "do i have cleaning the counters on my to-do list", "intent": "todo list"}
+{"text": "is cleaning the toilet on my to-do list", "intent": "todo list"}
+{"text": "tell me what is on the list of things to do", "intent": "todo list"}
+{"text": "tell me what is on my to do list", "intent": "todo list"}
+{"text": "is vacuuming on my list of things to do", "intent": "todo list"}
+{"text": "will an oil change be on my to-do list tomorrow", "intent": "todo list"}
+{"text": "read me my list of things to do", "intent": "todo list"}
+{"text": "please read my todo list", "intent": "todo list"}
+{"text": "tell me what is on my todo list", "intent": "todo list"}
+{"text": "i need my todo list read", "intent": "todo list"}
+{"text": "i need to hear my todo list", "intent": "todo list"}
+{"text": "is taking out the trash on my to do list", "intent": "todo list"}
+{"text": "read to me my to do list", "intent": "todo list"}
+{"text": "read back my to do list", "intent": "todo list"}
+{"text": "can you tell me my to do list", "intent": "todo list"}
+{"text": "i want to know what i have to do", "intent": "todo list"}
+{"text": "read back to me my to do list", "intent": "todo list"}
+{"text": "tell me the content of my to do list today", "intent": "todo list"}
+{"text": "what is on my to do list", "intent": "todo list"}
+{"text": "please read back to me my to do list", "intent": "todo list"}
+{"text": "let me know what i have to do today", "intent": "todo list"}
+{"text": "is fixing mom's kitchen blind on my to do list", "intent": "todo list"}
+{"text": "check my domestic to do list for carpet cleaning", "intent": "todo list"}
+{"text": "do my task list have call kath on it", "intent": "todo list"}
+{"text": "check my to do list to see if jewelry repair is listed", "intent": "todo list"}
+{"text": "does my errand list have goodwill on it", "intent": "todo list"}
+{"text": "can you tell me the items on my to do list", "intent": "todo list"}
+{"text": "do i have brush my teeth on my todo list", "intent": "todo list"}
+{"text": "what chores do i have waiting on my reminder list", "intent": "todo list"}
+{"text": "do i have get an oil change on my todo list", "intent": "todo list"}
+{"text": "do i already have a task on my todo list to research delaware", "intent": "todo list"}
+{"text": "what do i have on my need to do list", "intent": "todo list"}
+{"text": "read my complete todo list to me", "intent": "todo list"}
+{"text": "i want to hear everything on my todo list", "intent": "todo list"}
+{"text": "do i have any birthdays on my todo list", "intent": "todo list"}
+{"text": "how many items are on my todo list", "intent": "todo list"}
+{"text": "is doing my laundry already on my todo list", "intent": "todo list"}
+{"text": "how many chores are on my todo list", "intent": "todo list"}
+{"text": "iterate the items on my todo list", "intent": "todo list"}
+{"text": "do i have an item on my todo list related to shopping", "intent": "todo list"}
+{"text": "are the items on my todo list listed alphabetically", "intent": "todo list"}
+{"text": "did i add purchase tickets to the penguin game to my todo list", "intent": "todo list"}
+{"text": "did i remember to add buy flowers to my chore list today", "intent": "todo list"}
+{"text": "can you check if i've added an item to throw out the carcasses on my todo list", "intent": "todo list"}
+{"text": "what tasks have i yet to complete off my list", "intent": "todo list"}
+{"text": "do i have anything on my todo list about shoveling snow", "intent": "todo list"}
+{"text": "what items do i need to do", "intent": "todo list"}
+{"text": "did i create a task to clean the gutters on my list", "intent": "todo list"}
+{"text": "tell me what i have on my todo list", "intent": "todo list"}
+{"text": "is studying for the chem exam on my todo list", "intent": "todo list"}
+{"text": "please tell me all items on my todo list", "intent": "todo list"}
+{"text": "do i have a car wash scheduled on my to do list", "intent": "todo list"}
+{"text": "at what time is laundry on my to do list", "intent": "todo list"}
+{"text": "have i set aside a time on my to do list to do my taxes", "intent": "todo list"}
+{"text": "did i jot down a time to see my accountant on my to do list", "intent": "todo list"}
+{"text": "when is babysitting on my to do list", "intent": "todo list"}
+{"text": "what does my to-do list consist of", "intent": "todo list"}
+{"text": "can you please tell me what is on my to-do list", "intent": "todo list"}
+{"text": "i wonder what my to-do list looks like for today", "intent": "todo list"}
+{"text": "what does my to-do list look like", "intent": "todo list"}
+{"text": "let me hear all of the items on my to do list, please", "intent": "todo list"}
+{"text": "repeat my to do list to me, please", "intent": "todo list"}
+{"text": "let's go over the list of items on the to do list just to be sure we got it all", "intent": "todo list"}
+{"text": "can i hear the complete to do list just dictated", "intent": "todo list"}
+{"text": "tell me what things i need to accomplish per my to do list, please", "intent": "todo list"}
+{"text": "can you tell me all of the things on my to do list for tomorrow, please", "intent": "todo list"}
+{"text": "please remind me of the tasks on my to do list", "intent": "todo list"}
+{"text": "go ahead and say all of the points on my list of to-do's please", "intent": "todo list"}
+{"text": "what do i have to do tomorrow, according to my to-do list", "intent": "todo list"}
+{"text": "i want to hear my to do list please", "intent": "todo list"}
+{"text": "what have i got on my to-do list", "intent": "todo list"}
+{"text": "let me know whether folding laundry is on my to do list", "intent": "todo list"}
+{"text": "can you tell me the tasks on my to-do list", "intent": "todo list"}
+{"text": "i need to know what tasks are on my to-do list", "intent": "todo list"}
+{"text": "i want to hear my to do list read out loud", "intent": "todo list"}
+{"text": "can you look to see whether feeding the fish is on my to do list", "intent": "todo list"}
+{"text": "please let me know if giving the dog a bath is on my list of tasks to complete", "intent": "todo list"}
+{"text": "can you walk me through the various tasks on my to do list", "intent": "todo list"}
+{"text": "what do i have left to do on my to-do list", "intent": "todo list"}
+{"text": "is changing the water filter on my to do list right now", "intent": "todo list"}
+{"text": "please tell me all the items on my to do list right now", "intent": "todo list"}
+{"text": "please inform me of what tasks i have listed on my to do list", "intent": "todo list"}
+{"text": "look to see if i have folding laundry on my to do list", "intent": "todo list"}
+{"text": "please read out my list of tasks to accomplish", "intent": "todo list"}
+{"text": "i need to know everything on my to do list currently", "intent": "todo list"}
+{"text": "i need to know if sorting the mail is on my to do list", "intent": "todo list"}
+{"text": "can you read my to do list to me please", "intent": "todo list"}
+{"text": "check my to do list to see if feeding the fish is on it", "intent": "todo list"}
+{"text": "did i put unpacking groceries on my to do list", "intent": "todo list"}
+{"text": "will you please go back over everything on my to do list", "intent": "todo list"}
+{"text": "read my to-do list to me", "intent": "todo list"}
+{"text": "i need to know if cleaning out the fridge is on my to do list", "intent": "todo list"}
+{"text": "do i have watering the plants on my to do list", "intent": "todo list"}
+{"text": "let's go through my to do list items please", "intent": "todo list"}
+{"text": "let my credit card company know that my card split in half", "intent": "damaged card"}
+{"text": "how do you report a burned debit card", "intent": "damaged card"}
+{"text": "my card split in half, how do i report it", "intent": "damaged card"}
+{"text": "report my burned card to the company", "intent": "damaged card"}
+{"text": "what do i say when i report a split credit card", "intent": "damaged card"}
+{"text": "my card was damaged by my cat; can i report that", "intent": "damaged card"}
+{"text": "i dropped my card in my gasoline and the printing wore off", "intent": "damaged card"}
+{"text": "i need to report that my dog chewed up my card", "intent": "damaged card"}
+{"text": "it seems i can't use my card since it has been damaged", "intent": "damaged card"}
+{"text": "unfortunately, my card is damaged and unusable", "intent": "damaged card"}
+{"text": "what should i do with an unusable and damaged card", "intent": "damaged card"}
+{"text": "my card is unusable because it's damaged", "intent": "damaged card"}
+{"text": "i cracked my card and need a replacement", "intent": "damaged card"}
+{"text": "my card got melted and i need to report it", "intent": "damaged card"}
+{"text": "my card got melted and i need to report it, please", "intent": "damaged card"}
+{"text": "my card got melted in the dryer and i need to report it, please", "intent": "damaged card"}
+{"text": "my card got damaged and i need to report it", "intent": "damaged card"}
+{"text": "my card got damaged and i need to report it, please", "intent": "damaged card"}
+{"text": "my card is damaged so i can not use it", "intent": "damaged card"}
+{"text": "report the card has been damaged", "intent": "damaged card"}
+{"text": "i can not use my card, it is damaged", "intent": "damaged card"}
+{"text": "the card is torn, let's report it", "intent": "damaged card"}
+{"text": "report that the card has been wrecked", "intent": "damaged card"}
+{"text": "my card is damaged and no longer function", "intent": "damaged card"}
+{"text": "my card is damaged and unusable", "intent": "damaged card"}
+{"text": "my card is wrecked, let's report it", "intent": "damaged card"}
+{"text": "report the card has been torn", "intent": "damaged card"}
+{"text": "i can not use my card since it is damaged", "intent": "damaged card"}
+{"text": "i need to report a bent card", "intent": "damaged card"}
+{"text": "my card split in half, can i report it", "intent": "damaged card"}
+{"text": "i cracked my card, order a new one", "intent": "damaged card"}
+{"text": "report that i split my card", "intent": "damaged card"}
+{"text": "please make a report that my card is split", "intent": "damaged card"}
+{"text": "the magnetic strip on my card is scratched, let the card company know", "intent": "damaged card"}
+{"text": "i cut up the wrong card, please contact the bank and let them know", "intent": "damaged card"}
+{"text": "i creased my card today, contact the bank", "intent": "damaged card"}
+{"text": "my card is cracked, please tell the card company", "intent": "damaged card"}
+{"text": "the dog chewed up my card, will you find out what it takes to get a replacement", "intent": "damaged card"}
+{"text": "the plastic numbers on my card are falling off", "intent": "damaged card"}
+{"text": "corner of my credit card is chipped off", "intent": "damaged card"}
+{"text": "my card got snapped in half", "intent": "damaged card"}
+{"text": "my card is too scratched and won't read correctly", "intent": "damaged card"}
+{"text": "the sticker on my card is peeling off", "intent": "damaged card"}
+{"text": "i can't use my card because it is broken", "intent": "damaged card"}
+{"text": "my broken card won't work", "intent": "damaged card"}
+{"text": "i can't use my damaged card", "intent": "damaged card"}
+{"text": "my damage card is not working", "intent": "damaged card"}
+{"text": "my damage card will not work", "intent": "damaged card"}
+{"text": "i don't know who to notify that i ran my credit card over with the lawn mower", "intent": "damaged card"}
+{"text": "i ran my credit card over with the lawn mower and need to replace it", "intent": "damaged card"}
+{"text": "i need to replace my credit card because i ran it over with the lawn mower", "intent": "damaged card"}
+{"text": "my card is partially damaged how do i report this", "intent": "damaged card"}
+{"text": "my card is not working and i need to let them know", "intent": "damaged card"}
+{"text": "my card broke in half and i need to report this", "intent": "damaged card"}
+{"text": "the chip on my card is damaged and i need a new one", "intent": "damaged card"}
+{"text": "my card's magnetic strip is not working and i want to notify them", "intent": "damaged card"}
+{"text": "my card has a deep crease through the middle so i would like to report it", "intent": "damaged card"}
+{"text": "how do i report my card if it got cut in half", "intent": "damaged card"}
+{"text": "my card is cracked and i want to report it", "intent": "damaged card"}
+{"text": "my card is too scratched up and i need to report it", "intent": "damaged card"}
+{"text": "i need to report my bent card", "intent": "damaged card"}
+{"text": "report to the company that i damaged my card", "intent": "damaged card"}
+{"text": "call the card company and ask them to replace my card", "intent": "damaged card"}
+{"text": "i damaged the card; can you replace the card", "intent": "damaged card"}
+{"text": "i demagnetized my card and want to report it", "intent": "damaged card"}
+{"text": "i want to report a broken card", "intent": "damaged card"}
+{"text": "my phone was too close to my card and demagnetized it, how can i report this", "intent": "damaged card"}
+{"text": "my card has been erased and i need to report it", "intent": "damaged card"}
+{"text": "i need a report form for my damaged, demagnetized card", "intent": "damaged card"}
+{"text": "how to report bent credit card", "intent": "damaged card"}
+{"text": "i can't use my broken card", "intent": "damaged card"}
+{"text": "i broke my card", "intent": "damaged card"}
+{"text": "how to tell the company that my credit card melted", "intent": "damaged card"}
+{"text": "my card is broken", "intent": "damaged card"}
+{"text": "my card isn't working", "intent": "damaged card"}
+{"text": "who do i report to if my credit card snaps", "intent": "damaged card"}
+{"text": "i accidentally bent my card, what do i do", "intent": "damaged card"}
+{"text": "my card doesn't work anymore", "intent": "damaged card"}
+{"text": "how do i report a melted credit card", "intent": "damaged card"}
+{"text": "my card needs replaced, i accidentally scraped it", "intent": "damaged card"}
+{"text": "i'd like to report my card as damaged, it's bent", "intent": "damaged card"}
+{"text": "i bent my card, can you report it to my bank", "intent": "damaged card"}
+{"text": "my card got scratched badly, can you tell my bank to send a replacement", "intent": "damaged card"}
+{"text": "my card snapped, can you tell my bank to send a replacement", "intent": "damaged card"}
+{"text": "i accidentally put my credit card in the shredder", "intent": "damaged card"}
+{"text": "my credit card fell out of my back pocket and got flushed down the toilet", "intent": "damaged card"}
+{"text": "my credit card snapped in half while i was fiddling with it", "intent": "damaged card"}
+{"text": "my dog ate my credit card and ruined it", "intent": "damaged card"}
+{"text": "i was using my credit card as a cutting board and accidentally sliced it in half", "intent": "damaged card"}
+{"text": "can you assist me with reporting that the atm nicked my card", "intent": "damaged card"}
+{"text": "i need to report a new card please the atm hurt mine", "intent": "damaged card"}
+{"text": "how report that scratched my card", "intent": "damaged card"}
+{"text": "the atm chewed up my card can i get a new one", "intent": "damaged card"}
+{"text": "an atm ate my card, how do i report it", "intent": "damaged card"}
+{"text": "my card fell out of my wallet and i ran over it so it does not work", "intent": "damaged card"}
+{"text": "my card fell in the toilet and now the chip does not work", "intent": "damaged card"}
+{"text": "the magnetic strip on my card is scratched up pretty badly from overuse can i get a new one", "intent": "damaged card"}
+{"text": "i need a new card because my dog chewed on it and now it does not work", "intent": "damaged card"}
+{"text": "i want to report my damaged card i accidentally cut it up thinking it was my expired card", "intent": "damaged card"}
+{"text": "i cracked my rewards card can i get a different one", "intent": "damaged card"}
+{"text": "i want to know if there is meeting room available at 8", "intent": "schedule meeting"}
+{"text": "meeting room availability from 8:00 please", "intent": "schedule meeting"}
+{"text": "are there any meetings room available between 8:00 and 9:00 am", "intent": "schedule meeting"}
+{"text": "i want to check if there is any meeting room available between 8:00 and 10:00 am", "intent": "schedule meeting"}
+{"text": "tell me how do i schedule a meeting", "intent": "schedule meeting"}
+{"text": "show me how do i schedule a meeting", "intent": "schedule meeting"}
+{"text": "i want to know how do i schedule a meeting", "intent": "schedule meeting"}
+{"text": "meeting room availability at 8:00 please", "intent": "schedule meeting"}
+{"text": "i want to find out how do i schedule a meeting", "intent": "schedule meeting"}
+{"text": "do you know how do i schedule a meeting", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with steve at the office", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with jessica at the office, please", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with james at the office, please", "intent": "schedule meeting"}
+{"text": "how do i create a meeting", "intent": "schedule meeting"}
+{"text": "how can i create a meeting", "intent": "schedule meeting"}
+{"text": "how can i schedule a meeting", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with steve at the office, please", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with james at the office", "intent": "schedule meeting"}
+{"text": "do you have a meeting room open from noon until 2:00 pm", "intent": "schedule meeting"}
+{"text": "i'd like to schedule a meeting room from 1:00 pm until 2:00 pm", "intent": "schedule meeting"}
+{"text": "can i book a meeting room from 2:00 pm to 3:00 pm", "intent": "schedule meeting"}
+{"text": "are there any meeting rooms free from 10:00 am until 10:30 am", "intent": "schedule meeting"}
+{"text": "what is your availability for conference rooms between one and two today", "intent": "schedule meeting"}
+{"text": "i want to schedule a meeting with tom for 6pm", "intent": "schedule meeting"}
+{"text": "add a new meeting with tom for 6pm", "intent": "schedule meeting"}
+{"text": "how can you schedule a meeting for me", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting for me", "intent": "schedule meeting"}
+{"text": "schedule a meeting with tom for 6pm", "intent": "schedule meeting"}
+{"text": "i need to schedule a meeting", "intent": "schedule meeting"}
+{"text": "schedule a meeting for me", "intent": "schedule meeting"}
+{"text": "add a meeting with tom at 6pm", "intent": "schedule meeting"}
+{"text": "i need to set a meeting with tom at 6pm", "intent": "schedule meeting"}
+{"text": "would you schedule a meeting with carrie and lisa please", "intent": "schedule meeting"}
+{"text": "i need you to schedule a meeting with carrie and lisa", "intent": "schedule meeting"}
+{"text": "schedule a meeting with carrie and lisa", "intent": "schedule meeting"}
+{"text": "i want you to schedule a meeting with carrie and lisa", "intent": "schedule meeting"}
+{"text": "could you please schedule a meeting with carrie and lisa", "intent": "schedule meeting"}
+{"text": "i want a meeting to be scheduled", "intent": "schedule meeting"}
+{"text": "tell me how i can schedule a meeting", "intent": "schedule meeting"}
+{"text": "help me schedule a meeting", "intent": "schedule meeting"}
+{"text": "how does scheduling a meeting work", "intent": "schedule meeting"}
+{"text": "help me get a meeting set up", "intent": "schedule meeting"}
+{"text": "i need a meeting scheduled with bob for 7:00am on 9/11", "intent": "schedule meeting"}
+{"text": "get me a meeting with bill for 5:30pm tomorrow", "intent": "schedule meeting"}
+{"text": "i have to meet with sam at 9:00am in two days", "intent": "schedule meeting"}
+{"text": "set a meeting with tom for 5:30 tomorrow", "intent": "schedule meeting"}
+{"text": "i'm having trouble scheduling a meeting", "intent": "schedule meeting"}
+{"text": "put a meeting on my schedule with pam for 3:00pm on february 11th", "intent": "schedule meeting"}
+{"text": "are there meeting rooms available between 9-10", "intent": "schedule meeting"}
+{"text": "are there meeting rooms available between 7-9", "intent": "schedule meeting"}
+{"text": "are there meeting rooms available between 11-12", "intent": "schedule meeting"}
+{"text": "are there meeting rooms available between 4-8", "intent": "schedule meeting"}
+{"text": "are there meeting rooms available between 10-11", "intent": "schedule meeting"}
+{"text": "can you put in a meeting for the blue room on friday", "intent": "schedule meeting"}
+{"text": "can you sign me up for a meeting in the blue room on friday", "intent": "schedule meeting"}
+{"text": "i want to know if there are meeting rooms available between 9:00 am and 11:00 am", "intent": "schedule meeting"}
+{"text": "please help me schedule a meeting with john love at 9 am tomorrow", "intent": "schedule meeting"}
+{"text": "between 9:00 am and 11:00 am, are there meeting rooms available", "intent": "schedule meeting"}
+{"text": "could you schedule a meeting with john smith at 1 pm tomorrow", "intent": "schedule meeting"}
+{"text": "i need you to schedule a meeting with bob brown at noon the day after tomorrow", "intent": "schedule meeting"}
+{"text": "can see you see if there are meeting rooms available between 9:00 am and 11:00 am", "intent": "schedule meeting"}
+{"text": "see if you can schedule a meeting with don southerland tomorrow at noon", "intent": "schedule meeting"}
+{"text": "i need meeting rooms between 9:00 am and 11:00 am, are there any available", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting at 10 am tomorrow with john smith", "intent": "schedule meeting"}
+{"text": "please tell me if there are meeting rooms available between 9:00 am and 11:00 am", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting room for interviews on thursday", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with damon for 1", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with john for 12", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with steve for 5", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with george for 4", "intent": "schedule meeting"}
+{"text": "can you schedule a meeting with matt for 3", "intent": "schedule meeting"}
+{"text": "a meeting needs to be schedule and i need to know how", "intent": "schedule meeting"}
+{"text": "show me how to schedule a meeting", "intent": "schedule meeting"}
+{"text": "tell me how to schedule a meeting", "intent": "schedule meeting"}
+{"text": "schedule a meeting room for friday at 3pm", "intent": "schedule meeting"}
+{"text": "at noon, schedule a meeting with saul", "intent": "schedule meeting"}
+{"text": "i'd like to pencil in a meeting with seth at 11am", "intent": "schedule meeting"}
+{"text": "what's the meeting room availability between noon and 2", "intent": "schedule meeting"}
+{"text": "set up a meeting with frank at 2pm", "intent": "schedule meeting"}
+{"text": "are there any open meeting rooms between noon and 1", "intent": "schedule meeting"}
+{"text": "book me a meeting room for 12pm on february 28th", "intent": "schedule meeting"}
+{"text": "are any meeting rooms open between 9 and 10", "intent": "schedule meeting"}
+{"text": "is there an open meeting room between 2 and 4", "intent": "schedule meeting"}
+{"text": "can you hook me up with a meeting room on saturday morning at 10am", "intent": "schedule meeting"}
+{"text": "i need to schedule a meeting with mae at 5pm", "intent": "schedule meeting"}
+{"text": "i'm going to need a meeting room on 9am on tuesday", "intent": "schedule meeting"}
+{"text": "i need a meeting room at 2pm on friday", "intent": "schedule meeting"}
+{"text": "i'm going to need to meet with scott at 1pm", "intent": "schedule meeting"}
+{"text": "is it possible to book a meeting room between 10 and 11", "intent": "schedule meeting"}
+{"text": "would you be able to help me with a meeting room on wednesday at 3pm", "intent": "schedule meeting"}
+{"text": "during afternoon is there a meeting room to use", "intent": "schedule meeting"}
+{"text": "is there a meeting room available between one and two", "intent": "schedule meeting"}
+{"text": "what is the availability of meeting rooms during the afternoon", "intent": "schedule meeting"}
+{"text": "how many rooms are available between 2 and 3", "intent": "schedule meeting"}
+{"text": "check if meeting rooms are free from 6 to 7", "intent": "schedule meeting"}
+{"text": "please find out if rooms are free from 1 to 2", "intent": "schedule meeting"}
+{"text": "are any rooms free from 12 to 1", "intent": "schedule meeting"}
+{"text": "are there rooms available between 5 and 530", "intent": "schedule meeting"}
+{"text": "if i want to schedule a meeting, how do i do it", "intent": "schedule meeting"}
+{"text": "how is a meeting scheduled", "intent": "schedule meeting"}
+{"text": "can you find my package in transit", "intent": "order status"}
+{"text": "track my package please", "intent": "order status"}
+{"text": "help me find my package", "intent": "order status"}
+{"text": "i need to track my package", "intent": "order status"}
+{"text": "what's going on with my order", "intent": "order status"}
+{"text": "can you see where my package is", "intent": "order status"}
+{"text": "do you know anything about the status of my order", "intent": "order status"}
+{"text": "can you check if my order has been delivered", "intent": "order status"}
+{"text": "are you able to figure out where my package is", "intent": "order status"}
+{"text": "order status", "intent": "order status"}
+{"text": "is my order being delivered soon", "intent": "order status"}
+{"text": "where's my package", "intent": "order status"}
+{"text": "do you know where my package is", "intent": "order status"}
+{"text": "check status on my deliver, has it been delivered", "intent": "order status"}
+{"text": "is my order shown as delivered", "intent": "order status"}
+{"text": "did my order ship", "intent": "order status"}
+{"text": "can you tell where my package is", "intent": "order status"}
+{"text": "is my package able to be tracked by you", "intent": "order status"}
+{"text": "can you find my package", "intent": "order status"}
+{"text": "can you locate my package", "intent": "order status"}
+{"text": "are you able to tack my package", "intent": "order status"}
+{"text": "has my online order shipped yet", "intent": "order status"}
+{"text": "i need to know what the most recent update is on the status of my online purchase", "intent": "order status"}
+{"text": "look up the status of the order i placed online", "intent": "order status"}
+{"text": "check to see the status of my recent online order", "intent": "order status"}
+{"text": "find out the status of my most recent online purchase", "intent": "order status"}
+{"text": "i ordered some curtains off amazon, can you tell me if it's been shipped yet", "intent": "order status"}
+{"text": "what's the status of my order", "intent": "order status"}
+{"text": "can you check on the status of my orders at amazon", "intent": "order status"}
+{"text": "can you tell me what the status of my last amazon order is", "intent": "order status"}
+{"text": "can you tell me if my last amazon order is coming today", "intent": "order status"}
+{"text": "show me tracking on my order", "intent": "order status"}
+{"text": "what is the status of my order", "intent": "order status"}
+{"text": "can you update me on my last amazon orders", "intent": "order status"}
+{"text": "i just placed my order today, what is the status of it", "intent": "order status"}
+{"text": "can i please get the status my order", "intent": "order status"}
+{"text": "my order was put in and i was wonder how i can see the status of it", "intent": "order status"}
+{"text": "i submitted my order is there any updates on it yet", "intent": "order status"}
+{"text": "hey, i just put in my order and i was wondering what the status of it", "intent": "order status"}
+{"text": "what's the current location of my package", "intent": "order status"}
+{"text": "has my ordered arrived", "intent": "order status"}
+{"text": "when will my package arrive", "intent": "order status"}
+{"text": "can you see if my order was delivered", "intent": "order status"}
+{"text": "did my order ever get distributed today", "intent": "order status"}
+{"text": "where was my package last at", "intent": "order status"}
+{"text": "can you help me find my package", "intent": "order status"}
+{"text": "was my order dropped off", "intent": "order status"}
+{"text": "where's my package right now", "intent": "order status"}
+{"text": "would you track my package", "intent": "order status"}
+{"text": "please track my package", "intent": "order status"}
+{"text": "track my package now please", "intent": "order status"}
+{"text": "could you please track my package", "intent": "order status"}
+{"text": "i need you to track my package", "intent": "order status"}
+{"text": "what is the status of my online order", "intent": "order status"}
+{"text": "what's the status of the order i placed online last week with target", "intent": "order status"}
+{"text": "please tell me the status of my last online order from walmart", "intent": "order status"}
+{"text": "can i still make changes to my order, or has it already been shipped", "intent": "order status"}
+{"text": "i need an update on my online order from nespresso", "intent": "order status"}
+{"text": "when can i expect to receive the order", "intent": "order status"}
+{"text": "has my order been shipped", "intent": "order status"}
+{"text": "can you give me a status update on my online order from amazon", "intent": "order status"}
+{"text": "what is the status of my online order of coffee pods", "intent": "order status"}
+{"text": "what is the status of my recent order", "intent": "order status"}
+{"text": "can you please check on the status of my online order", "intent": "order status"}
+{"text": "check up on the status of my online order", "intent": "order status"}
+{"text": "online order: status", "intent": "order status"}
+{"text": "check on the status of my order", "intent": "order status"}
+{"text": "where is my order", "intent": "order status"}
+{"text": "is my order here yet", "intent": "order status"}
+{"text": "when will my order be delivered", "intent": "order status"}
+{"text": "check the status of my order", "intent": "order status"}
+{"text": "show me where my order is", "intent": "order status"}
+{"text": "has my order been shipped yet", "intent": "order status"}
+{"text": "can you check to see if my order has been delivered", "intent": "order status"}
+{"text": "could you check to see if my order has been delivered, please", "intent": "order status"}
+{"text": "can you check to see if my order has been delivered, please", "intent": "order status"}
+{"text": "could you check if my order has been delivered, please", "intent": "order status"}
+{"text": "could you check to see if my order has been delivered", "intent": "order status"}
+{"text": "has the order that i placed arrived", "intent": "order status"}
+{"text": "is my order already here", "intent": "order status"}
+{"text": "is my order due yet", "intent": "order status"}
+{"text": "is the packaged delivered already", "intent": "order status"}
+{"text": "has my order arrived yet", "intent": "order status"}
+{"text": "how soon will me package arrive", "intent": "order status"}
+{"text": "when can i expect my order", "intent": "order status"}
+{"text": "check order number", "intent": "order status"}
+{"text": "track package, please", "intent": "order status"}
+{"text": "are you able to track my package", "intent": "order status"}
+{"text": "track my package", "intent": "order status"}
+{"text": "what is the tracking on my package", "intent": "order status"}
+{"text": "get the tracking on my package", "intent": "order status"}
+{"text": "what is the status of my delivery order", "intent": "order status"}
+{"text": "where is my delivery order", "intent": "order status"}
+{"text": "has my delivery order arrived yet", "intent": "order status"}
+{"text": "has my delivery order showed up", "intent": "order status"}
+{"text": "i ordered for delivery, has is arrived yet", "intent": "order status"}
+{"text": "what is the status of my most recent order", "intent": "order status"}
+{"text": "has my recent order shipped", "intent": "order status"}
+{"text": "when will my order be here", "intent": "order status"}
+{"text": "will my order be here by saturday", "intent": "order status"}
+{"text": "to visit cambodia, do i need an international visa", "intent": "international visa"}
+{"text": "do i need to get a visa to visit canada", "intent": "international visa"}
+{"text": "will i need a visa to visit ireland", "intent": "international visa"}
+{"text": "will i need a travel visa to go to canary islands", "intent": "international visa"}
+{"text": "i want to visit portugal do i need a travel visa", "intent": "international visa"}
+{"text": "i want to see paris will i need an international visa", "intent": "international visa"}
+{"text": "for travel to argentina, do i need to get a travel visa", "intent": "international visa"}
+{"text": "will i have to apply for a visa if i want to visit mexico", "intent": "international visa"}
+{"text": "to vacation to tel aviv do i need a travel visa", "intent": "international visa"}
+{"text": "do i need to obtain a travel visa to go on vacation to places in eastern europe", "intent": "international visa"}
+{"text": "would i need a tourist visa for brazil", "intent": "international visa"}
+{"text": "do i need a tourist visa for europe", "intent": "international visa"}
+{"text": "i want to know if i shouldget a tourist visa for italy", "intent": "international visa"}
+{"text": "is it necessary to apply for a tourist visa for mexico", "intent": "international visa"}
+{"text": "should i get a travel visa for spain", "intent": "international visa"}
+{"text": "does moscow require travel visas to visit", "intent": "international visa"}
+{"text": "would i need a travel visa to go to the congo", "intent": "international visa"}
+{"text": "do i need an international visa to go to south korea", "intent": "international visa"}
+{"text": "do i need an international visa to go to tibet", "intent": "international visa"}
+{"text": "do i need an international visa to go to vietnam", "intent": "international visa"}
+{"text": "do i need an international visa to go to hong kong", "intent": "international visa"}
+{"text": "do i need an international visa to go to malaysia", "intent": "international visa"}
+{"text": "i am going to travel to mexico soon; do i need to get a visa", "intent": "international visa"}
+{"text": "i need to know if i must have an international visa to go to france", "intent": "international visa"}
+{"text": "i'm going to jamaica next week; am i needing a visa", "intent": "international visa"}
+{"text": "tell me whether i need an international visa to go to mexico", "intent": "international visa"}
+{"text": "i'm going to mexico; do i need an international via", "intent": "international visa"}
+{"text": "let me know if i need an international visa to go to sudan", "intent": "international visa"}
+{"text": "am i in need of an international visa to go to france", "intent": "international visa"}
+{"text": "do i need to get a visa for traveling to chile", "intent": "international visa"}
+{"text": "do i need a visa to travel to jamaica", "intent": "international visa"}
+{"text": "i need to know if i need a visa to travel to el salvador", "intent": "international visa"}
+{"text": "would i need a visa if i want to travel to mexico", "intent": "international visa"}
+{"text": "do i need a visa to travel to mexico", "intent": "international visa"}
+{"text": "does mexico require me to have a visa to travel there", "intent": "international visa"}
+{"text": "is a visa needed to go to mexico", "intent": "international visa"}
+{"text": "if i want to travel to mexico do i need to get a visa", "intent": "international visa"}
+{"text": "do i need a visa to scotland", "intent": "international visa"}
+{"text": "do i need a visa to russia", "intent": "international visa"}
+{"text": "do i need a visa for canada", "intent": "international visa"}
+{"text": "do i need a travel visa to visit germany", "intent": "international visa"}
+{"text": "i am going to russia and am wondering if i need a visa", "intent": "international visa"}
+{"text": "do i need a travel visa to visit russia", "intent": "international visa"}
+{"text": "do i need a travel visa to visit canada", "intent": "international visa"}
+{"text": "i am going to germany soon do i need a visa", "intent": "international visa"}
+{"text": "do i need a travel visa to visit japan", "intent": "international visa"}
+{"text": "do i need to get a visa for russia", "intent": "international visa"}
+{"text": "do i need a visa to go to greece", "intent": "international visa"}
+{"text": "do i need a travel visa to visit china", "intent": "international visa"}
+{"text": "do i need a visa for germany", "intent": "international visa"}
+{"text": "do i need a visa to go to somewhere internationally", "intent": "international visa"}
+{"text": "do i need a visa to spain", "intent": "international visa"}
+{"text": "do i need an international visa to go to mexico", "intent": "international visa"}
+{"text": "do i need an international visa to go to england", "intent": "international visa"}
+{"text": "do i need an international visa to go to brazil", "intent": "international visa"}
+{"text": "do i need an international visa to go to canada", "intent": "international visa"}
+{"text": "do i need an international visa to go to spain", "intent": "international visa"}
+{"text": "should i get a visa before going to cancun", "intent": "international visa"}
+{"text": "is a visa required to visit cancun", "intent": "international visa"}
+{"text": "will i need a visa to travel to cancun", "intent": "international visa"}
+{"text": "do i need a visa to go to cancun", "intent": "international visa"}
+{"text": "do i need a visa to travel to canada", "intent": "international visa"}
+{"text": "does mexico travel require a visa", "intent": "international visa"}
+{"text": "would i need to get a visa to go to ireland", "intent": "international visa"}
+{"text": "if i'm planning to go to the uk, do i need a visa", "intent": "international visa"}
+{"text": "might i need to get a visa to travel to venezuela", "intent": "international visa"}
+{"text": "i'm going to be going to canada soon, do they require a visa for entry", "intent": "international visa"}
+{"text": "do i need a visa to get into canada later this year", "intent": "international visa"}
+{"text": "does travelling to that place require a visa", "intent": "international visa"}
+{"text": "do i need a visa to go there", "intent": "international visa"}
+{"text": "do i need a visa to leave the country", "intent": "international visa"}
+{"text": "does international travel always require a visa", "intent": "international visa"}
+{"text": "when does travelling require a visa", "intent": "international visa"}
+{"text": "if i go to canada next month do i need a visa", "intent": "international visa"}
+{"text": "do i need to bring a visa when i go to canada next month", "intent": "international visa"}
+{"text": "i'm going to canada soon, do i need a visa", "intent": "international visa"}
+{"text": "what paperwork will i need to visit northern ireland", "intent": "international visa"}
+{"text": "should i get a visa for crete", "intent": "international visa"}
+{"text": "will i need a visa to go to moldova", "intent": "international visa"}
+{"text": "does laos require a travel visa", "intent": "international visa"}
+{"text": "do i need to apply for a visa to visit dnipro", "intent": "international visa"}
+{"text": "israel has strict restrictions do i need a visa to travel there", "intent": "international visa"}
+{"text": "visa's are hard to get do i need one when i travel to israel", "intent": "international visa"}
+{"text": "i'm vacationing in israel will i need a visa", "intent": "international visa"}
+{"text": "do i need a visa to travel to isreal", "intent": "international visa"}
+{"text": "i'm heading to israel soon, do i need a visa", "intent": "international visa"}
+{"text": "do i have to have a visa to go to denmark", "intent": "international visa"}
+{"text": "do i need a visa to go to cuba", "intent": "international visa"}
+{"text": "do i have to have a visa to go to the cayman islands", "intent": "international visa"}
+{"text": "does jamaica require a visa", "intent": "international visa"}
+{"text": "what documents to i need to go to egypt", "intent": "international visa"}
+{"text": "does france have their own version of a visa", "intent": "international visa"}
+{"text": "does mexico require an international visa", "intent": "international visa"}
+{"text": "does ireland require an international visa", "intent": "international visa"}
+{"text": "do i need an international visa to enter canada", "intent": "international visa"}
+{"text": "do i have to get an international visa before they'll let me in melbourne", "intent": "international visa"}
+{"text": "must i have an international visa when travelling to russia", "intent": "international visa"}
+{"text": "is an international visa needed to travel to z", "intent": "international visa"}
+{"text": "i want to go to korea, do i need an international visa", "intent": "international visa"}
+{"text": "do i need to apply for a travel visa if i am going to bermuda", "intent": "international visa"}
+{"text": "what is my vacation schedule look like", "intent": "pto balance"}
+{"text": "can you explain to me what type of vacation days i have still", "intent": "pto balance"}
+{"text": "what type of vacation schedule do i have left", "intent": "pto balance"}
+{"text": "can i get vacation day totals i have left", "intent": "pto balance"}
+{"text": "how many vacation days do i have saved up, please", "intent": "pto balance"}
+{"text": "how many vacation days do i have remaining", "intent": "pto balance"}
+{"text": "how many vacation days do i have saved up", "intent": "pto balance"}
+{"text": "how many vacation days do i have remaining, please", "intent": "pto balance"}
+{"text": "how many vacation days do i have left", "intent": "pto balance"}
+{"text": "how many vacation days do i still have", "intent": "pto balance"}
+{"text": "how many vacation days do i still get", "intent": "pto balance"}
+{"text": "i want to know how much vacation time i can use", "intent": "pto balance"}
+{"text": "do i have any vacation days to use", "intent": "pto balance"}
+{"text": "tell me if i have any spare vacation days", "intent": "pto balance"}
+{"text": "do i have any vacation time left", "intent": "pto balance"}
+{"text": "do i have any vacation days left", "intent": "pto balance"}
+{"text": "how many holiday days do i have left to use", "intent": "pto balance"}
+{"text": "i want to know how many vacation days i can use", "intent": "pto balance"}
+{"text": "how many vacation days do i have", "intent": "pto balance"}
+{"text": "do i have any personal days left", "intent": "pto balance"}
+{"text": "how many of my vacation days do i have remaining", "intent": "pto balance"}
+{"text": "how many vacation hours do i have", "intent": "pto balance"}
+{"text": "how much paid time off do i have saved", "intent": "pto balance"}
+{"text": "how many days do i have left of pto", "intent": "pto balance"}
+{"text": "how many day of my vacation are left for the year", "intent": "pto balance"}
+{"text": "how many pto days do i have left", "intent": "pto balance"}
+{"text": "how many pto days do i have for the year", "intent": "pto balance"}
+{"text": "how many vacation days do i have for the year", "intent": "pto balance"}
+{"text": "how many vacation days have i accrued", "intent": "pto balance"}
+{"text": "can you tell me how much pto i still have", "intent": "pto balance"}
+{"text": "what's the current amount of vacation owed to me", "intent": "pto balance"}
+{"text": "what number of vacation days remain for me", "intent": "pto balance"}
+{"text": "how many days can i slack off this year", "intent": "pto balance"}
+{"text": "do i have enough vacation to take a european trip", "intent": "pto balance"}
+{"text": "how much vacation am i currently entitled to", "intent": "pto balance"}
+{"text": "what's the amount of pto i have left", "intent": "pto balance"}
+{"text": "how much paid time off have i earned to date", "intent": "pto balance"}
+{"text": "what pto time to i have remaining", "intent": "pto balance"}
+{"text": "what's the current count of my pto days", "intent": "pto balance"}
+{"text": "what's the count of vacation days i have left", "intent": "pto balance"}
+{"text": "how much pto have i accrued", "intent": "pto balance"}
+{"text": "do i still have any pto days left, and if so, how many", "intent": "pto balance"}
+{"text": "how much pto do i have left", "intent": "pto balance"}
+{"text": "how much time off do i have left", "intent": "pto balance"}
+{"text": "what's my vacation day total", "intent": "pto balance"}
+{"text": "do i still have vacation days", "intent": "pto balance"}
+{"text": "how many vacation days do i have to spend", "intent": "pto balance"}
+{"text": "check how much pto i have left", "intent": "pto balance"}
+{"text": "what's the status on my vacation days", "intent": "pto balance"}
+{"text": "check days of pto", "intent": "pto balance"}
+{"text": "what is the saved vacation time i have left", "intent": "pto balance"}
+{"text": "how much time do i have for vacation saved", "intent": "pto balance"}
+{"text": "how many days of vacation time do i have saved", "intent": "pto balance"}
+{"text": "what is the amount of vacation days i have left", "intent": "pto balance"}
+{"text": "how many saved days of vacation time do i have", "intent": "pto balance"}
+{"text": "how many days for vacation do i have left", "intent": "pto balance"}
+{"text": "hoe many vacation days are left for me", "intent": "pto balance"}
+{"text": "how many days are left for me for vacation if i may ask", "intent": "pto balance"}
+{"text": "how many days off for vacation do i have left", "intent": "pto balance"}
+{"text": "how many vacation days do i have left this year", "intent": "pto balance"}
+{"text": "how many vacation days do i have saved", "intent": "pto balance"}
+{"text": "can you figure out how many vacation days i have left", "intent": "pto balance"}
+{"text": "i have how many vacation days saved up", "intent": "pto balance"}
+{"text": "i have how many vacation days left this year", "intent": "pto balance"}
+{"text": "i have how many vacation days left", "intent": "pto balance"}
+{"text": "how many days of vacation have i saved", "intent": "pto balance"}
+{"text": "i've saved what number of days of vacation", "intent": "pto balance"}
+{"text": "tell me the number of vacation days i have stored", "intent": "pto balance"}
+{"text": "what's the number of remaining vacation days i have", "intent": "pto balance"}
+{"text": "how many pto days do i have remaining", "intent": "pto balance"}
+{"text": "what is my remaining pto days", "intent": "pto balance"}
+{"text": "can you tell me the number of pto days i have left", "intent": "pto balance"}
+{"text": "can you tell me the remaining time i have for pto", "intent": "pto balance"}
+{"text": "do you know ho many vacation days i currently have", "intent": "pto balance"}
+{"text": "would you please tell me how many vacation days i have", "intent": "pto balance"}
+{"text": "please tell me how many vacation days i currently have", "intent": "pto balance"}
+{"text": "could you tell me how many vacation days i have left", "intent": "pto balance"}
+{"text": "how many days of vacation do i have", "intent": "pto balance"}
+{"text": "how much vacation time have i accrued", "intent": "pto balance"}
+{"text": "how many vacation hours have i accrued", "intent": "pto balance"}
+{"text": "please calculate my vacation time", "intent": "pto balance"}
+{"text": "i'd like to know how many vacation days i have", "intent": "pto balance"}
+{"text": "i want to know how many vacation days i have", "intent": "pto balance"}
+{"text": "what number of vacation days do i have", "intent": "pto balance"}
+{"text": "tell me how many vacation days i have", "intent": "pto balance"}
+{"text": "let me know the number of vacation days i have", "intent": "pto balance"}
+{"text": "i need to know how many vacation days i have", "intent": "pto balance"}
+{"text": "would you provide the number of vacation days i have", "intent": "pto balance"}
+{"text": "provide me the number of vacation days i have", "intent": "pto balance"}
+{"text": "how much pto do i have", "intent": "pto balance"}
+{"text": "do i have any remaining pto days", "intent": "pto balance"}
+{"text": "how much paid time off do i have", "intent": "pto balance"}
+{"text": "do i have any pto days left", "intent": "pto balance"}
+{"text": "do i have enough pto to take time off", "intent": "pto balance"}
+{"text": "how many more vacation days do i have for the year", "intent": "pto balance"}
+{"text": "tell me how many vacation days i have left", "intent": "pto balance"}
+{"text": "how many more vacation days can i use this year", "intent": "pto balance"}
+{"text": "how many vacation days are available to me", "intent": "pto balance"}
+{"text": "how many more pto days are there for me", "intent": "pto balance"}
+{"text": "let me know my vacation time", "intent": "pto balance"}
+{"text": "rename yourself to betty", "intent": "change ai name"}
+{"text": "can i call you betty", "intent": "change ai name"}
+{"text": "rename bob to betty", "intent": "change ai name"}
+{"text": "is there a way to change your name to betty", "intent": "change ai name"}
+{"text": "i will call you zander", "intent": "change ai name"}
+{"text": "please change the name of you to tim", "intent": "change ai name"}
+{"text": "can you change the name of what you respond to", "intent": "change ai name"}
+{"text": "change the name of your system", "intent": "change ai name"}
+{"text": "make changes to the name of the ai", "intent": "change ai name"}
+{"text": "revise the ai name", "intent": "change ai name"}
+{"text": "alter the name given to the ai", "intent": "change ai name"}
+{"text": "change the ai name to a new one", "intent": "change ai name"}
+{"text": "make a new name for the ai", "intent": "change ai name"}
+{"text": "change your name to something funny", "intent": "change ai name"}
+{"text": "from now, your new name will be lord vader", "intent": "change ai name"}
+{"text": "from now on i'm going to call you ishmael", "intent": "change ai name"}
+{"text": "i'm going to start calling you kobe now", "intent": "change ai name"}
+{"text": "from now on, your name will be buttercup", "intent": "change ai name"}
+{"text": "i want to change your name to theodore", "intent": "change ai name"}
+{"text": "change your name setting to plato", "intent": "change ai name"}
+{"text": "from here on, you'll be responding to the name captain black", "intent": "change ai name"}
+{"text": "your name from this point forward is george", "intent": "change ai name"}
+{"text": "i hereby rename you felix", "intent": "change ai name"}
+{"text": "how do i change the name you came with to something else", "intent": "change ai name"}
+{"text": "what other names can i give you", "intent": "change ai name"}
+{"text": "i want to change your name to another name", "intent": "change ai name"}
+{"text": "i need to change your name, do you have a new name that you like", "intent": "change ai name"}
+{"text": "i would like to change your name to a different one", "intent": "change ai name"}
+{"text": "i will call you cap", "intent": "change ai name"}
+{"text": "your name is roman", "intent": "change ai name"}
+{"text": "x will be your name", "intent": "change ai name"}
+{"text": "your name will be queen", "intent": "change ai name"}
+{"text": "i am going to address you as my own name", "intent": "change ai name"}
+{"text": "will you answer if i call you lexi", "intent": "change ai name"}
+{"text": "i would like you to think of yourself as machine and answer when i say your name as such", "intent": "change ai name"}
+{"text": "do you mind if call you nikolai", "intent": "change ai name"}
+{"text": "i'd like to refer to you as my house from now on", "intent": "change ai name"}
+{"text": "may i start referring to you as jeff", "intent": "change ai name"}
+{"text": "please respond to me when i reference skynet", "intent": "change ai name"}
+{"text": "i want to start calling you bob", "intent": "change ai name"}
+{"text": "please open a call to my mother", "intent": "change ai name"}
+{"text": "is it okay if i change your name to mud", "intent": "change ai name"}
+{"text": "can i begin calling you dave", "intent": "change ai name"}
+{"text": "is it alright with you if i call you scarlet", "intent": "change ai name"}
+{"text": "please change the ai name", "intent": "change ai name"}
+{"text": "change the ai name", "intent": "change ai name"}
+{"text": "please change the ai name for me", "intent": "change ai name"}
+{"text": "i gotta change your name to remy", "intent": "change ai name"}
+{"text": "i'd like to change the ai name", "intent": "change ai name"}
+{"text": "i must change your name to amanda", "intent": "change ai name"}
+{"text": "i want you to change the ai name", "intent": "change ai name"}
+{"text": "i want change your name to russ", "intent": "change ai name"}
+{"text": "i wanna change your name to audrey", "intent": "change ai name"}
+{"text": "i need to change your name to ben", "intent": "change ai name"}
+{"text": "i want to set your name to gaffigan", "intent": "change ai name"}
+{"text": "i want your new name to be joshua", "intent": "change ai name"}
+{"text": "i will call you jimbo from now on", "intent": "change ai name"}
+{"text": "set your name to hillary", "intent": "change ai name"}
+{"text": "can i call you dave", "intent": "change ai name"}
+{"text": "i want your name to be samantha now", "intent": "change ai name"}
+{"text": "i want to change the name i call you to juan", "intent": "change ai name"}
+{"text": "you need to respond to a new name called joey", "intent": "change ai name"}
+{"text": "change your name to ginger", "intent": "change ai name"}
+{"text": "change your settings so that your respond to the name marion", "intent": "change ai name"}
+{"text": "let me call you fred", "intent": "change ai name"}
+{"text": "you will be called rose from now on", "intent": "change ai name"}
+{"text": "let me change your name to dina", "intent": "change ai name"}
+{"text": "i think bradley is a better name for you", "intent": "change ai name"}
+{"text": "can we change your name to lisa", "intent": "change ai name"}
+{"text": "i would like to call you andre 3000", "intent": "change ai name"}
+{"text": "x is your new nickname", "intent": "change ai name"}
+{"text": "if i may, i'd like to call you slave", "intent": "change ai name"}
+{"text": "x is what i am calling you now", "intent": "change ai name"}
+{"text": "can i change your name", "intent": "change ai name"}
+{"text": "can i make your name different", "intent": "change ai name"}
+{"text": "let's change what you respond to", "intent": "change ai name"}
+{"text": "can i call you something else", "intent": "change ai name"}
+{"text": "i'd like to use another name for you", "intent": "change ai name"}
+{"text": "can i change your name to buttercup", "intent": "change ai name"}
+{"text": "i would like to change your name to eli", "intent": "change ai name"}
+{"text": "could i please change your name to alicia", "intent": "change ai name"}
+{"text": "i want to change your name to emma", "intent": "change ai name"}
+{"text": "i am wanting to change your name to felix", "intent": "change ai name"}
+{"text": "i want to update you name now", "intent": "change ai name"}
+{"text": "i want to update you name", "intent": "change ai name"}
+{"text": "i want to update you name, please", "intent": "change ai name"}
+{"text": "i want to change your name", "intent": "change ai name"}
+{"text": "i want to change your name, please", "intent": "change ai name"}
+{"text": "can i refer to you as mike from here on out", "intent": "change ai name"}
+{"text": "can i change your name please", "intent": "change ai name"}
+{"text": "i'm going to start calling you alice", "intent": "change ai name"}
+{"text": "can i start calling you chris", "intent": "change ai name"}
+{"text": "can i call you lucy from now on", "intent": "change ai name"}
+{"text": "i'm calling you rupert from now on", "intent": "change ai name"}
+{"text": "can i change your name to bob", "intent": "change ai name"}
+{"text": "can you go by a different name", "intent": "change ai name"}
+{"text": "can i refer to you as liz", "intent": "change ai name"}
+{"text": "i want to start calling you marie", "intent": "change ai name"}
+{"text": "can i rename you", "intent": "change ai name"}
+{"text": "how can i change your name", "intent": "change ai name"}
+{"text": "what is the present status of my credit card application", "intent": "application status"}
+{"text": "what is the current status of my credit card application", "intent": "application status"}
+{"text": "in what status is my credit card application currently in", "intent": "application status"}
+{"text": "how far along is my credit card application", "intent": "application status"}
+{"text": "what is the status of my credit card application looking like", "intent": "application status"}
+{"text": "pull up my credit card application's current status", "intent": "application status"}
+{"text": "has my credit card application processed yet", "intent": "application status"}
+{"text": "check the status of my credit card application please", "intent": "application status"}
+{"text": "has my card application successfully gone through", "intent": "application status"}
+{"text": "go to the credit card site and check if my application has gone through", "intent": "application status"}
+{"text": "has my credit card application been approved yet", "intent": "application status"}
+{"text": "can you check on the status of my credit card application", "intent": "application status"}
+{"text": "i would like to know if my visa card application has been approved", "intent": "application status"}
+{"text": "can you let me know if my visa card has been approved", "intent": "application status"}
+{"text": "at what point will the review of my credit card application be completed", "intent": "application status"}
+{"text": "can you check if my mastercard application has been reviewed yet", "intent": "application status"}
+{"text": "has my visa card application been approved yet", "intent": "application status"}
+{"text": "please let me know how my credit card application is going", "intent": "application status"}
+{"text": "when will my credit card application be reviewed", "intent": "application status"}
+{"text": "please let me know if my discover card application has been approved", "intent": "application status"}
+{"text": "please double check my reservations for six at mani", "intent": "confirm reservation"}
+{"text": "confirm my johnny rockets reservation for this evening", "intent": "confirm reservation"}
+{"text": "confirm four for my reservation at fiji", "intent": "confirm reservation"}
+{"text": "make sure my flower bar reservation is scheduled for tomorrow", "intent": "confirm reservation"}
+{"text": "please double check on my reservations for buffalo wild wings at five for the game", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at applebee's for kristen", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at chili's for bart", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at longhorn for justin", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at outback for josh", "intent": "confirm reservation"}
+{"text": "i would like to try and confirm that i have a reservation at carrabbas for heather", "intent": "confirm reservation"}
+{"text": "i want to confirm friday's reservation at 2:00", "intent": "confirm reservation"}
+{"text": "confirm my friday reservation at 2:00", "intent": "confirm reservation"}
+{"text": "i am here to conform my friday reservation at 2:00", "intent": "confirm reservation"}
+{"text": "you know the reservation i have on 2:00 friday i confirm it", "intent": "confirm reservation"}
+{"text": "i'd like to confirm the 2:00 reservation for friday", "intent": "confirm reservation"}
+{"text": "check to see if i am still booked to be eating at gusto handcrafted pasta & pizza at 6:30 pm", "intent": "confirm reservation"}
+{"text": "is my dinner reservation for gusto handcrafted pasta & pizza at 6:30 pm still valid", "intent": "confirm reservation"}
+{"text": "please call gusto handcrafted pasta & pizza and ask them about the status of my reservation for 6:30 pm", "intent": "confirm reservation"}
+{"text": "will you check to see if i am still reserved for 6:30 pm at gusto handcrafted pasta & pizza", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for dinner at gusto handcrafted pasta & pizza at 6:30 pm", "intent": "confirm reservation"}
+{"text": "whats the reward balance for my visa", "intent": "rewards balance"}
+{"text": "for my visa what's my reward balance", "intent": "rewards balance"}
+{"text": "i need know know the reward balance for my visa", "intent": "rewards balance"}
+{"text": "can you tell me my visa's reward balance", "intent": "rewards balance"}
+{"text": "what's my visa cards balance for rewards", "intent": "rewards balance"}
+{"text": "how many points do i have with my american express", "intent": "rewards balance"}
+{"text": "tell me the points on my delta rewards card", "intent": "rewards balance"}
+{"text": "how many points on my chase unlimited card", "intent": "rewards balance"}
+{"text": "what is my kohls card's rewards balance", "intent": "rewards balance"}
+{"text": "what is my gymboree card's rewards balance", "intent": "rewards balance"}
+{"text": "what is my old navy card's rewards balance", "intent": "rewards balance"}
+{"text": "how do i check my rewards for my maurices card", "intent": "rewards balance"}
+{"text": "how do i check my rewards for my chase card", "intent": "rewards balance"}
+{"text": "what is my amazon card's rewards balance", "intent": "rewards balance"}
+{"text": "how do i check my rewards for my old navy card", "intent": "rewards balance"}
+{"text": "what is my maurices card's rewards balance", "intent": "rewards balance"}
+{"text": "how do i check my rewards for my capital one card", "intent": "rewards balance"}
+{"text": "how do i check my rewards for my target card", "intent": "rewards balance"}
+{"text": "how many points have i earned with my amex card", "intent": "rewards balance"}
+{"text": "how many points have i earned with my chase card", "intent": "rewards balance"}
+{"text": "i need you to check the air levels in my tires and let me know if i have enough in them", "intent": "tire pressure"}
+{"text": "check my tires' air levels please", "intent": "tire pressure"}
+{"text": "please check my tires and let me know if i have sufficient air in them", "intent": "tire pressure"}
+{"text": "do my tires have enough air in them", "intent": "tire pressure"}
+{"text": "can you check and tell me if my tires have enough air", "intent": "tire pressure"}
+{"text": "what is the car's tire pressure", "intent": "tire pressure"}
+{"text": "what is the tire pressure of the car", "intent": "tire pressure"}
+{"text": "how is the car tire pressure doing", "intent": "tire pressure"}
+{"text": "how is the car's tire pressure", "intent": "tire pressure"}
+{"text": "is my tire pressure good", "intent": "tire pressure"}
+{"text": "how is my tire pressure", "intent": "tire pressure"}
+{"text": "is my tire pressure okay on my car", "intent": "tire pressure"}
+{"text": "how much air pressure is in my tires", "intent": "tire pressure"}
+{"text": "what is my tire pressure", "intent": "tire pressure"}
+{"text": "do my car tires have enough psi in them", "intent": "tire pressure"}
+{"text": "can you tell me how much air are in my car tires", "intent": "tire pressure"}
+{"text": "please give me the amount of pressure in my car tires", "intent": "tire pressure"}
+{"text": "how much psi is in my car tires", "intent": "tire pressure"}
+{"text": "what is the air pressure of my car tires", "intent": "tire pressure"}
+{"text": "how much air are in my tires", "intent": "tire pressure"}
+{"text": "repeat my to do list", "intent": "todo list"}
+{"text": "what do i have to do", "intent": "todo list"}
+{"text": "instruct me what to do", "intent": "todo list"}
+{"text": "recite my to do list", "intent": "todo list"}
+{"text": "will you please tell me my to do list", "intent": "todo list"}
+{"text": "what do i need to do", "intent": "todo list"}
+{"text": "did i put cutting the grass on my todo list", "intent": "todo list"}
+{"text": "is there anything on my todo list for taking out the trash", "intent": "todo list"}
+{"text": "is cleaning the outside windows on my todo list", "intent": "todo list"}
+{"text": "what do i have on my todo list", "intent": "todo list"}
+{"text": "have i added anything to my todo list", "intent": "todo list"}
+{"text": "did i make a note on my todo list to mop the bathroom floor", "intent": "todo list"}
+{"text": "is my todo list free", "intent": "todo list"}
+{"text": "can you tell me if there is anything on my todo list", "intent": "todo list"}
+{"text": "do i have anything on my todo list", "intent": "todo list"}
+{"text": "did i put a car wash on my todo list", "intent": "todo list"}
+{"text": "did i put vacuuming on my todo's", "intent": "todo list"}
+{"text": "is vacuuming on my todo list", "intent": "todo list"}
+{"text": "does my todo list have vacuuming on it", "intent": "todo list"}
+{"text": "is cleaning the garage on my to do list", "intent": "todo list"}
+{"text": "my card was damaged by bleach", "intent": "damaged card"}
+{"text": "my card was cut by my kid", "intent": "damaged card"}
+{"text": "my card is ruined and isn't working", "intent": "damaged card"}
+{"text": "my card isn't working because its destroyed", "intent": "damaged card"}
+{"text": "my card is messed up from carding my door", "intent": "damaged card"}
+{"text": "my card was in my pocket and bent", "intent": "damaged card"}
+{"text": "my card has a burn on it", "intent": "damaged card"}
+{"text": "my card is impaired and i can't use it", "intent": "damaged card"}
+{"text": "my card is scuffed up and won't work", "intent": "damaged card"}
+{"text": "my card seems to not work because its blemished", "intent": "damaged card"}
+{"text": "i broke my card trying to do a magic trick", "intent": "damaged card"}
+{"text": "when my house burned down, so did my card", "intent": "damaged card"}
+{"text": "i broke my card scraping snow off the windshield", "intent": "damaged card"}
+{"text": "i broke my card when i bent my wallet", "intent": "damaged card"}
+{"text": "i ruined my card when it got washed", "intent": "damaged card"}
+{"text": "how can i get a new card that got melted in the sun", "intent": "damaged card"}
+{"text": "my card got dropped in the shredded and i need it replaced", "intent": "damaged card"}
+{"text": "my card was destroyed when my house burned down and i need a replacement", "intent": "damaged card"}
+{"text": "i accidentally caught my card on fire", "intent": "damaged card"}
+{"text": "i accidentally shredded my card", "intent": "damaged card"}
+{"text": "how do i set up a meeting", "intent": "schedule meeting"}
+{"text": "what is the process to set up a meeting", "intent": "schedule meeting"}
+{"text": "how can i set up a meeting", "intent": "schedule meeting"}
+{"text": "what is the process to schedule a meeting", "intent": "schedule meeting"}
+{"text": "what do i do to schedule a meeting", "intent": "schedule meeting"}
+{"text": "i want you to set a meeting with john at 5 pm", "intent": "schedule meeting"}
+{"text": "schedule a monday meeting with sam at 1 pm", "intent": "schedule meeting"}
+{"text": "please schedule a meeting with kim at 10 am", "intent": "schedule meeting"}
+{"text": "please set a meeting with nancy at 4 pm", "intent": "schedule meeting"}
+{"text": "schedule my meeting with jim at 3pm", "intent": "schedule meeting"}
+{"text": "get me a meeting room for 9am on friday", "intent": "schedule meeting"}
+{"text": "secure us a meeting room for 9am on friday", "intent": "schedule meeting"}
+{"text": "arrange a meeting room for 9am on friday", "intent": "schedule meeting"}
+{"text": "please schedule a meeting room for 9am on friday", "intent": "schedule meeting"}
+{"text": "make sure i get a meeting room for 9am on friday", "intent": "schedule meeting"}
+{"text": "is it possible for you to schedule a meeting for 3:00 on wednesday", "intent": "schedule meeting"}
+{"text": "can you create a meeting for 3:00 on wednesday", "intent": "schedule meeting"}
+{"text": "can you arrange a meeting for 3:00 on wednesday", "intent": "schedule meeting"}
+{"text": "can you please set up a meeting for 3:00 on wednesday", "intent": "schedule meeting"}
+{"text": "can you hook up a meeting for 3:00 on wednesday", "intent": "schedule meeting"}
+{"text": "was my order delivered", "intent": "order status"}
+{"text": "did my order get here yet", "intent": "order status"}
+{"text": "was my order brought here", "intent": "order status"}
+{"text": "was my order shipped here", "intent": "order status"}
+{"text": "was the order delivered", "intent": "order status"}
+{"text": "what is the status of my purchase", "intent": "order status"}
+{"text": "track the status of my purchase", "intent": "order status"}
+{"text": "did my order get delivered", "intent": "order status"}
+{"text": "has my purchase been delivered yet", "intent": "order status"}
+{"text": "has my purchase arrived yet", "intent": "order status"}
+{"text": "how far along is my purchase", "intent": "order status"}
+{"text": "have my goods been delivered yet", "intent": "order status"}
+{"text": "i ordered new light bulbs online when will they get here", "intent": "order status"}
+{"text": "when will the clothes i ordered online arrive", "intent": "order status"}
+{"text": "i ordered new sheets online when will they arrive", "intent": "order status"}
+{"text": "i ordered some new speakers, so when will they get here", "intent": "order status"}
+{"text": "is my order at the delivery address", "intent": "order status"}
+{"text": "when is my order coming", "intent": "order status"}
+{"text": "is my order here", "intent": "order status"}
+{"text": "when will my order arrive", "intent": "order status"}
+{"text": "if i plan on travelling to this country, do i need a visa", "intent": "international visa"}
+{"text": "do i need a visa if i go there", "intent": "international visa"}
+{"text": "for going to that country, do i need a visa", "intent": "international visa"}
+{"text": "does one need a visa to go there", "intent": "international visa"}
+{"text": "if i travel there, do i need a visa", "intent": "international visa"}
+{"text": "does going to taiwan require me to get an international visa", "intent": "international visa"}
+{"text": "if i go to brazil, do i need to get an international visa", "intent": "international visa"}
+{"text": "should i go to okinawa, does it require an international visa", "intent": "international visa"}
+{"text": "is an international visa needed to go to cyprus", "intent": "international visa"}
+{"text": "i want to go to china but am not sure if i need an international visa", "intent": "international visa"}
+{"text": "should i get an internation visa to go to switzerland", "intent": "international visa"}
+{"text": "does south korea require an international visa", "intent": "international visa"}
+{"text": "will i need an international visa to go to madagascar", "intent": "international visa"}
+{"text": "is an international visa needed for canada", "intent": "international visa"}
+{"text": "do i need an international visa to get into italy", "intent": "international visa"}
+{"text": "if i go to uganda, do i need an international visa", "intent": "international visa"}
+{"text": "do i need a travel visa for the uk", "intent": "international visa"}
+{"text": "am i going to need a visa for traveling to canada", "intent": "international visa"}
+{"text": "does canada require a visa", "intent": "international visa"}
+{"text": "does the uk require a travel visa", "intent": "international visa"}
+{"text": "how many vacation days have i saved up", "intent": "pto balance"}
+{"text": "how many vacation days do i have at my disposal", "intent": "pto balance"}
+{"text": "how many hours of vacation have i saved up", "intent": "pto balance"}
+{"text": "how many vacation days have i accumulated", "intent": "pto balance"}
+{"text": "how many pto days are available", "intent": "pto balance"}
+{"text": "how much vacation do i have saved", "intent": "pto balance"}
+{"text": "how much vacation have i earned", "intent": "pto balance"}
+{"text": "what number of pto days do i have left", "intent": "pto balance"}
+{"text": "how many weeks of vacation do i have", "intent": "pto balance"}
+{"text": "how many days of vacation do i have saved", "intent": "pto balance"}
+{"text": "i need to know how many pto days are left", "intent": "pto balance"}
+{"text": "whats the number of pto days i have to my availability", "intent": "pto balance"}
+{"text": "how many pto days are in my possesion", "intent": "pto balance"}
+{"text": "what number of vacation days do i have available", "intent": "pto balance"}
+{"text": "what number of vacation days do i have at my disposal", "intent": "pto balance"}
+{"text": "could you let me know how many pto days do i have left", "intent": "pto balance"}
+{"text": "could you tell me how many pto days do i have left", "intent": "pto balance"}
+{"text": "can you let me know how many pto days do i have left", "intent": "pto balance"}
+{"text": "can you tell me how many pto days do i have left", "intent": "pto balance"}
+{"text": "what is the amount of time i can request off in the coming year", "intent": "pto balance"}
+{"text": "can i start calling you dave", "intent": "change ai name"}
+{"text": "i want to change your name to sarah", "intent": "change ai name"}
+{"text": "i want to call you maggie", "intent": "change ai name"}
+{"text": "can i change you name to gretchen", "intent": "change ai name"}
+{"text": "i'd like to call you alex", "intent": "change ai name"}
+{"text": "can i call you adam instead of the current name", "intent": "change ai name"}
+{"text": "i will now call you adam instead of your old name", "intent": "change ai name"}
+{"text": "will you respond to adam instead of the current name", "intent": "change ai name"}
+{"text": "i want to change your name to adam", "intent": "change ai name"}
+{"text": "i want to start calling you adam", "intent": "change ai name"}
+{"text": "i want your name to be gerry", "intent": "change ai name"}
+{"text": "i want your name to be henry", "intent": "change ai name"}
+{"text": "i want your name to be john", "intent": "change ai name"}
+{"text": "make your name jake", "intent": "change ai name"}
+{"text": "make your name steve", "intent": "change ai name"}
+{"text": "i would like to change your name to fred", "intent": "change ai name"}
+{"text": "i think i want your name changed to fred", "intent": "change ai name"}
+{"text": "can you have your name changed to fred", "intent": "change ai name"}
+{"text": "can you change your name to fred", "intent": "change ai name"}
+{"text": "change your name to fred", "intent": "change ai name"}
+{"text": "how is the status of my credit card application coming along", "intent": "application status"}
+{"text": "what exactly is the status of my application for the credit card", "intent": "application status"}
+{"text": "i need to know the status of my credit card application", "intent": "application status"}
+{"text": "i would like to know the status of my credit card application", "intent": "application status"}
+{"text": "let me know if my application for american saving bank", "intent": "application status"}
+{"text": "check the status of my credit card application for me", "intent": "application status"}
+{"text": "i want to know if my credit card application has been processed", "intent": "application status"}
+{"text": "i want to know the status of my credit card application", "intent": "application status"}
+{"text": "can you check if my credit card application has been processed", "intent": "application status"}
+{"text": "i want to know how is my credit card application going", "intent": "application status"}
+{"text": "can you let me know the status of my discover credit card application status", "intent": "application status"}
+{"text": "can you tell me the status of my credit card application", "intent": "application status"}
+{"text": "has my application for american express gone through yet", "intent": "application status"}
+{"text": "let me know about the status of my credit card application", "intent": "application status"}
+{"text": "can you please tell me about the status of my credit card application", "intent": "application status"}
+{"text": "can you please let me know the status of my capital one application", "intent": "application status"}
+{"text": "let me know the credit card application status", "intent": "application status"}
+{"text": "has my application for discover card gone through yet", "intent": "application status"}
+{"text": "can you tell me the credit card application status", "intent": "application status"}
+{"text": "has my application for the hsbc card been approved yet", "intent": "application status"}
+{"text": "please tell me if my application for the hsbc card has gone through yet", "intent": "application status"}
+{"text": "how far has my application for the hsbc card gone till now", "intent": "application status"}
+{"text": "what's the status on my application for the hsbc credit card", "intent": "application status"}
+{"text": "how far has my application for the hsbc card proceeded till now", "intent": "application status"}
+{"text": "did the application for my visa card finish", "intent": "application status"}
+{"text": "has my mastercard application gone through the process", "intent": "application status"}
+{"text": "has my mastercard application gone through yet", "intent": "application status"}
+{"text": "has my application for my visa card gone through", "intent": "application status"}
+{"text": "has my mastercard application been processed", "intent": "application status"}
+{"text": "when will i know if my visa card application was approved", "intent": "application status"}
+{"text": "confirm my reservation for march 12 at 9:00 am", "intent": "confirm reservation"}
+{"text": "please confirm that i have a reservation for march 1st at 7", "intent": "confirm reservation"}
+{"text": "can you confirm that i have a reservation for february 21 at 6 o'clock", "intent": "confirm reservation"}
+{"text": "verify my reservation for smith and wollensky at 6:45", "intent": "confirm reservation"}
+{"text": "please confirm my reservation for bar les freres at 7", "intent": "confirm reservation"}
+{"text": "tell me whether or not i have a reservation at gramercy tavern for tad", "intent": "confirm reservation"}
+{"text": "can you confirm that i have a reservation for 2/20 at 6:00 pm", "intent": "confirm reservation"}
+{"text": "please tell me if i still have a reservation at acero for susie", "intent": "confirm reservation"}
+{"text": "please confirm my reservation at brio for theodore", "intent": "confirm reservation"}
+{"text": "confirm my reservation for acero at 7", "intent": "confirm reservation"}
+{"text": "please confirm that i have a reservation for 2/20 at 6:00 pm", "intent": "confirm reservation"}
+{"text": "confirm that there is a reservation at bellagio for thomas", "intent": "confirm reservation"}
+{"text": "can you confirm the reservation at fleming's for jane", "intent": "confirm reservation"}
+{"text": "are there reservation for joe and will", "intent": "confirm reservation"}
+{"text": "please verify my reservation for john at bardenay", "intent": "confirm reservation"}
+{"text": "will you call and check on my reservation for john at bardenay", "intent": "confirm reservation"}
+{"text": "is my reservation set for john at bardenay", "intent": "confirm reservation"}
+{"text": "do we know if my reservation for john at bardenay was accepted", "intent": "confirm reservation"}
+{"text": "has my reservation for john at bardenay been confirmed", "intent": "confirm reservation"}
+{"text": "let's try and confirm my reservation for bubble bar under \"franklin", "intent": "confirm reservation"}
+{"text": "i need to confirm my reservation for red lobster for frank", "intent": "confirm reservation"}
+{"text": "find my reservation for steve at crucere's and confirm it, please", "intent": "confirm reservation"}
+{"text": "confirm the john reservation at applebee's", "intent": "confirm reservation"}
+{"text": "i'd like to confirm the josh reservation at moe's", "intent": "confirm reservation"}
+{"text": "i have a reservation for strip house for jennifer that i'd like to confirm", "intent": "confirm reservation"}
+{"text": "please try to confirm my reservation for jim at barney's", "intent": "confirm reservation"}
+{"text": "confirm my reservation for joe at hoss's", "intent": "confirm reservation"}
+{"text": "i need to confirm the reservation for frank at chili's", "intent": "confirm reservation"}
+{"text": "i'll be confirming my reservation for joseph at red lobster", "intent": "confirm reservation"}
+{"text": "is there a reservation for mark at mimis", "intent": "confirm reservation"}
+{"text": "x card has earned how many points", "intent": "rewards balance"}
+{"text": "can you give me a points update on my rewards plus card", "intent": "rewards balance"}
+{"text": "can you pull up how many points i've earned with travel card", "intent": "rewards balance"}
+{"text": "what is the updated points that i earned with synovus card", "intent": "rewards balance"}
+{"text": "how many points do i have on my six flags rewards card", "intent": "rewards balance"}
+{"text": "i would like to check my rewards for my credit card", "intent": "rewards balance"}
+{"text": "i need to check my rewards for my credit card", "intent": "rewards balance"}
+{"text": "i wanna know how many points have i earned with my credit card", "intent": "rewards balance"}
+{"text": "i would like to know my debit card's rewards balance", "intent": "rewards balance"}
+{"text": "i would like to know how many points have i earned with my credit card", "intent": "rewards balance"}
+{"text": "i need to know my credit card's rewards balance", "intent": "rewards balance"}
+{"text": "i wanna know my credit card's rewards balance", "intent": "rewards balance"}
+{"text": "i really need to check my rewards for my credit card", "intent": "rewards balance"}
+{"text": "i would like to check my rewards for my debit card", "intent": "rewards balance"}
+{"text": "i wish to know my debit card's rewards balance", "intent": "rewards balance"}
+{"text": "i wanna check my rewards for my credit card", "intent": "rewards balance"}
+{"text": "tell me my debit card's rewards balance", "intent": "rewards balance"}
+{"text": "i need to understand how many points have i earned with my credit card", "intent": "rewards balance"}
+{"text": "i must know how many points have i earned with my credit card", "intent": "rewards balance"}
+{"text": "i gotta know how many points i have gotten with my debit card", "intent": "rewards balance"}
+{"text": "how many points earned do i have with my american express card", "intent": "rewards balance"}
+{"text": "how many points have i earned with my paypal credit card so far", "intent": "rewards balance"}
+{"text": "i have points on my capital one card and i'd like to know how many i've earned", "intent": "rewards balance"}
+{"text": "have i earned points with my venture card, and how many", "intent": "rewards balance"}
+{"text": "what do my visa points look like", "intent": "rewards balance"}
+{"text": "how many points do i have on my visa", "intent": "rewards balance"}
+{"text": "tell me the number of points on my visa card", "intent": "rewards balance"}
+{"text": "give me the point total on my visa card", "intent": "rewards balance"}
+{"text": "what points have i earned on my visa", "intent": "rewards balance"}
+{"text": "how many rewards points do i have on my rewards points i have on my mastercard", "intent": "rewards balance"}
+{"text": "give me the pressure for the tires on my car", "intent": "tire pressure"}
+{"text": "can you tell me the tire pressure for the car", "intent": "tire pressure"}
+{"text": "give me the tire pressure for the car", "intent": "tire pressure"}
+{"text": "go ahead and give me the tire pressure of my vehicle", "intent": "tire pressure"}
+{"text": "what exactly is the tire pressure for the car", "intent": "tire pressure"}
+{"text": "i must kniw how low are my tires on air", "intent": "tire pressure"}
+{"text": "please tell me my car's tire pressure", "intent": "tire pressure"}
+{"text": "i need to know how low are my tires on air", "intent": "tire pressure"}
+{"text": "i shall know how low are my tires on air", "intent": "tire pressure"}
+{"text": "tell me my car's tire pressure", "intent": "tire pressure"}
+{"text": "i gotta know my car;s tire pressure", "intent": "tire pressure"}
+{"text": "i would like to know my car's tire pressure", "intent": "tire pressure"}
+{"text": "i gotta know how low are my tires on air", "intent": "tire pressure"}
+{"text": "i wanna know my car's tire pressure", "intent": "tire pressure"}
+{"text": "i wanna know how low are my tires on air", "intent": "tire pressure"}
+{"text": "how can i find out what my tire pressure is", "intent": "tire pressure"}
+{"text": "how do i find out my tire pressure", "intent": "tire pressure"}
+{"text": "my tires are how low on air", "intent": "tire pressure"}
+{"text": "how low are my tires right now on air", "intent": "tire pressure"}
+{"text": "my tires are filled enough or no", "intent": "tire pressure"}
+{"text": "what's the tire pressure of my tires", "intent": "tire pressure"}
+{"text": "is there enough air in my tires", "intent": "tire pressure"}
+{"text": "my tires need how much more air in them", "intent": "tire pressure"}
+{"text": "are my tires filled properly", "intent": "tire pressure"}
+{"text": "are my tires filled enough", "intent": "tire pressure"}
+{"text": "what is the pressure of my tires", "intent": "tire pressure"}
+{"text": "do my tires have enough pressure", "intent": "tire pressure"}
+{"text": "what is the air pressure of my tires", "intent": "tire pressure"}
+{"text": "what is the level of air pressure of my tires", "intent": "tire pressure"}
+{"text": "is my tire pressure high", "intent": "tire pressure"}
+{"text": "what's on my todo list", "intent": "todo list"}
+{"text": "let me hear my todo list", "intent": "todo list"}
+{"text": "did i add \"cleaning the foyer\" to my todo list yet", "intent": "todo list"}
+{"text": "did i put grocery shopping on my todo list", "intent": "todo list"}
+{"text": "give me my todo list", "intent": "todo list"}
+{"text": "what things are on my todo list", "intent": "todo list"}
+{"text": "have i told you to add washing dishes to my todo list", "intent": "todo list"}
+{"text": "is laundry on my todo list", "intent": "todo list"}
+{"text": "read my todo list", "intent": "todo list"}
+{"text": "list my todo list items", "intent": "todo list"}
+{"text": "is \"cleaning the bathroom\" an item on my todo list", "intent": "todo list"}
+{"text": "tell me what's on my todo list", "intent": "todo list"}
+{"text": "read my to-do list items", "intent": "todo list"}
+{"text": "check on my to-do list items", "intent": "todo list"}
+{"text": "check what is on my to-do list", "intent": "todo list"}
+{"text": "what items are on my list of to-dos", "intent": "todo list"}
+{"text": "what is on my to-do list", "intent": "todo list"}
+{"text": "what kind of things do i have to do today", "intent": "todo list"}
+{"text": "what's on my todo list for today", "intent": "todo list"}
+{"text": "please tell me my todo list", "intent": "todo list"}
+{"text": "is my todo list possible today", "intent": "todo list"}
+{"text": "i really want to know my todo list again thanks", "intent": "todo list"}
+{"text": "is it possible to read my to-do list again", "intent": "todo list"}
+{"text": "tell me my to-do list", "intent": "todo list"}
+{"text": "what is my to-do list like today", "intent": "todo list"}
+{"text": "list my to-do list", "intent": "todo list"}
+{"text": "give me my to-do list", "intent": "todo list"}
+{"text": "what must i do today", "intent": "todo list"}
+{"text": "is make a hair appointment on my todo list right now", "intent": "todo list"}
+{"text": "can you see if paying garbage bill is on my todo list for this week", "intent": "todo list"}
+{"text": "tell me how to go about reporting a damaged card", "intent": "damaged card"}
+{"text": "my card is damaged", "intent": "damaged card"}
+{"text": "i want to report a damaged card", "intent": "damaged card"}
+{"text": "where should i report a damaged card", "intent": "damaged card"}
+{"text": "can you find out how to report a damaged card", "intent": "damaged card"}
+{"text": "my card has become too frayed and torn to use", "intent": "damaged card"}
+{"text": "what do i do about a card that's too messed up to be properly scanned", "intent": "damaged card"}
+{"text": "my card became damaged when i dropped it in the parking lot and it got ran over", "intent": "damaged card"}
+{"text": "i have a damaged card that needs replaced because my son dropped it in a blender", "intent": "damaged card"}
+{"text": "i sat on my credit card and broke it in half and need it replaced", "intent": "damaged card"}
+{"text": "my credit card got torn and i need a new one", "intent": "damaged card"}
+{"text": "what do i do with a damaged credit card", "intent": "damaged card"}
+{"text": "how do i replace a damaged card", "intent": "damaged card"}
+{"text": "i have a card that needs replaced because my wine dumped wine on it", "intent": "damaged card"}
+{"text": "i spilled wine on my credit card and now its all mushy and needs to be replaced", "intent": "damaged card"}
+{"text": "my dog swallowed my credit card and i need a new one", "intent": "damaged card"}
+{"text": "i want to report a damaged card that my cat shredded with its claws", "intent": "damaged card"}
+{"text": "i need to replace a card that my daughter spilled juice on", "intent": "damaged card"}
+{"text": "i'm unable to use my card because it's been ruined", "intent": "damaged card"}
+{"text": "i can't use my card because it\u2019s damaged badly", "intent": "damaged card"}
+{"text": "i cannot use my card cuz it's damaged", "intent": "damaged card"}
+{"text": "i can't use my card because it\u2019s messed up", "intent": "damaged card"}
+{"text": "i can't use my card because it\u2019s broken", "intent": "damaged card"}
+{"text": "i can't use my card because i damaged it", "intent": "damaged card"}
+{"text": "who should i talk to about the fact that i inadvertently split my card almost in half", "intent": "damaged card"}
+{"text": "i accidentally deactivated the magnetic stripe on my visa debit card and i need to report it", "intent": "damaged card"}
+{"text": "can i talk to someone to let them know my card was damaged from being melted on a radiator", "intent": "damaged card"}
+{"text": "i would like to report a damaged card that was burnt", "intent": "damaged card"}
+{"text": "i would like to report my card damaged since i accidentally spilled gorilla glue all over it and the numbers are now obscured", "intent": "damaged card"}
+{"text": "my visa has been damaged", "intent": "damaged card"}
+{"text": "please book a meeting room for thusday at 4:00", "intent": "schedule meeting"}
+{"text": "would you please schedule a meeting room for 4:00 on thursday", "intent": "schedule meeting"}
+{"text": "could you schedule a meeting room for 4:00 on thursday", "intent": "schedule meeting"}
+{"text": "will you schedule a conference room for thursday at 4:00", "intent": "schedule meeting"}
+{"text": "can you reserve a meeting space for 4:00 on thursday", "intent": "schedule meeting"}
+{"text": "i need to know how to schedule a meeting", "intent": "schedule meeting"}
+{"text": "please help me figure out how to set up a meeting", "intent": "schedule meeting"}
+{"text": "i need assistance scheduling a meeting", "intent": "schedule meeting"}
+{"text": "walk me through the process of scheduling a meeting", "intent": "schedule meeting"}
+{"text": "help me set up a meeting please", "intent": "schedule meeting"}
+{"text": "i need a meeting room between 3-7, are any available", "intent": "schedule meeting"}
+{"text": "can you tell me if there are meeting rooms available between 1 and 4", "intent": "schedule meeting"}
+{"text": "are meeting rooms free between 8-3", "intent": "schedule meeting"}
+{"text": "do you know if meeting rooms are open to use 1-2", "intent": "schedule meeting"}
+{"text": "can you check if meeting rooms are available between 4 and 5", "intent": "schedule meeting"}
+{"text": "meeting rooms open between one and three pm", "intent": "schedule meeting"}
+{"text": "check meeting room availability between one and three pm", "intent": "schedule meeting"}
+{"text": "what meeting rooms are available for meeting 5pm friday", "intent": "schedule meeting"}
+{"text": "reserve a meeting room for friday, 5pm", "intent": "schedule meeting"}
+{"text": "one and three pm are there meeting rooms open", "intent": "schedule meeting"}
+{"text": "friday 5pm schedule a room for meeting", "intent": "schedule meeting"}
+{"text": "open meeting rooms from one to three pm", "intent": "schedule meeting"}
+{"text": "can you reserve a room for a friday meeting at 5pm", "intent": "schedule meeting"}
+{"text": "reserve a meeting room for 5pm on friday", "intent": "schedule meeting"}
+{"text": "check meeting rooms available between one and three pm", "intent": "schedule meeting"}
+{"text": "i need to schedule meeting room for monday at 2:30 pm, please", "intent": "schedule meeting"}
+{"text": "i would like you to reserve a conference room for noon tomorrow", "intent": "schedule meeting"}
+{"text": "please reserve a meeting room for 1:00 pm on tuesday", "intent": "schedule meeting"}
+{"text": "go ahead and hold a conference room for friday at 11 am, please", "intent": "schedule meeting"}
+{"text": "can you book a meeting room for friday at 9:00 am", "intent": "schedule meeting"}
+{"text": "where is my order now", "intent": "order status"}
+{"text": "tell me all updates about my order's status", "intent": "order status"}
+{"text": "is my order on its way or what's going on", "intent": "order status"}
+{"text": "how is my order doing right now", "intent": "order status"}
+{"text": "locate my package", "intent": "order status"}
+{"text": "can you monitor my package's progress", "intent": "order status"}
+{"text": "track my order", "intent": "order status"}
+{"text": "tell me where my package is currently", "intent": "order status"}
+{"text": "where is my package en route", "intent": "order status"}
+{"text": "give me the status of my order", "intent": "order status"}
+{"text": "when will i get my order", "intent": "order status"}
+{"text": "tell me where my order is", "intent": "order status"}
+{"text": "what is the status of the order i placed with you yesterday", "intent": "order status"}
+{"text": "what's the updated status of my order", "intent": "order status"}
+{"text": "can you help with delivery tracking", "intent": "order status"}
+{"text": "i need a delivery tracked", "intent": "order status"}
+{"text": "i need to track my order", "intent": "order status"}
+{"text": "i placed an order and i need it tracked", "intent": "order status"}
+{"text": "could you track an order for me", "intent": "order status"}
+{"text": "has my package been sent", "intent": "order status"}
+{"text": "what time is my package getting here", "intent": "order status"}
+{"text": "how's my amazon order doing", "intent": "order status"}
+{"text": "i need to track a package", "intent": "order status"}
+{"text": "i want to track a package i should be getting", "intent": "order status"}
+{"text": "please track my order", "intent": "order status"}
+{"text": "can you tell me when my item will get here", "intent": "order status"}
+{"text": "can you tell me where my item is", "intent": "order status"}
+{"text": "what's up with my order", "intent": "order status"}
+{"text": "are they any updates on my order", "intent": "order status"}
+{"text": "i need to track the status of my order", "intent": "order status"}
+{"text": "are visas needed to travel to jamaica", "intent": "international visa"}
+{"text": "do i need a visa for south korea", "intent": "international visa"}
+{"text": "if i go to columbia, will i need a visa", "intent": "international visa"}
+{"text": "are visas required to go to cuba", "intent": "international visa"}
+{"text": "do i need to apply for a visa for my trip to india", "intent": "international visa"}
+{"text": "if i go to indonesia would i need a visa", "intent": "international visa"}
+{"text": "do i need a visa to travel to indonesia", "intent": "international visa"}
+{"text": "should i apply for a visa if i am traveling to mexico", "intent": "international visa"}
+{"text": "is a visa necessary for traveling to south africa", "intent": "international visa"}
+{"text": "if i want to travel to singapore do i need a visa", "intent": "international visa"}
+{"text": "do americans need visas in canada", "intent": "international visa"}
+{"text": "would i need a visa in taiwan", "intent": "international visa"}
+{"text": "i'd like to go to malaysia so do i need a visa", "intent": "international visa"}
+{"text": "is a travel visa needed for thailand", "intent": "international visa"}
+{"text": "what are the visa requirements for brazil", "intent": "international visa"}
+{"text": "is a travel visa required to visit paraguay", "intent": "international visa"}
+{"text": "does travelling to st petersburg require a travel visa", "intent": "international visa"}
+{"text": "should i get a travel visa if i want to go to guyana", "intent": "international visa"}
+{"text": "will i be able to visit peru without a travel visa", "intent": "international visa"}
+{"text": "if i want to go to x, do i need a travel visa", "intent": "international visa"}
+{"text": "can i get to cuba with this visa", "intent": "international visa"}
+{"text": "do i need a visa to get to puerto rico", "intent": "international visa"}
+{"text": "do i need a visa to go to colombia", "intent": "international visa"}
+{"text": "do i need a states visa to get to cuba", "intent": "international visa"}
+{"text": "do i need a us visa for cuba", "intent": "international visa"}
+{"text": "if i get a visa can i travel to japan", "intent": "international visa"}
+{"text": "do i need a visa if i'm going to san jose", "intent": "international visa"}
+{"text": "do i need a visa to travel outside of the us", "intent": "international visa"}
+{"text": "are visas for international travel", "intent": "international visa"}
+{"text": "can you travel outside of the united states without a visa", "intent": "international visa"}
+{"text": "i would like to know my vacation days balance", "intent": "pto balance"}
+{"text": "give me vacation days remaining, please", "intent": "pto balance"}
+{"text": "how many vacation days do i still have available", "intent": "pto balance"}
+{"text": "please tell me the exact number of days i have still for vacation", "intent": "pto balance"}
+{"text": "what's the number of vacation days i have left", "intent": "pto balance"}
+{"text": "what amount of vacation days do i have", "intent": "pto balance"}
+{"text": "what is the number of pto days i have left", "intent": "pto balance"}
+{"text": "what amount of pto days do i have left", "intent": "pto balance"}
+{"text": "what are the amount of vacation days i have", "intent": "pto balance"}
+{"text": "how much pto days do i have remaining", "intent": "pto balance"}
+{"text": "what number of days do i have for vacation", "intent": "pto balance"}
+{"text": "what is my remaining amount of pto days", "intent": "pto balance"}
+{"text": "what do my pto days amount to", "intent": "pto balance"}
+{"text": "what do my vacation days amount to", "intent": "pto balance"}
+{"text": "how many days of vacation do i have left", "intent": "pto balance"}
+{"text": "what day am i on on vacation and how much do i got left", "intent": "pto balance"}
+{"text": "how many vacation days are remaining on my time", "intent": "pto balance"}
+{"text": "how many days of vacation are left now", "intent": "pto balance"}
+{"text": "how many days on holiday do i have", "intent": "pto balance"}
+{"text": "can you see if i have any vacation days available for a request", "intent": "pto balance"}
+{"text": "how much vacation time have i earned", "intent": "pto balance"}
+{"text": "how much vacation time do i have", "intent": "pto balance"}
+{"text": "how many weeks of vacation time have i earned", "intent": "pto balance"}
+{"text": "how many weeks of vacation time do i have", "intent": "pto balance"}
+{"text": "how many days can i take for vacation", "intent": "pto balance"}
+{"text": "what is the balance on my vacation days", "intent": "pto balance"}
+{"text": "how many days are remaining on my vacation days", "intent": "pto balance"}
+{"text": "so i have any vacation days left", "intent": "pto balance"}
+{"text": "what is the year to date total on my vacation days", "intent": "pto balance"}
+{"text": "how many sick days do i have", "intent": "pto balance"}
+{"text": "would it be possible to change your name to coraline", "intent": "change ai name"}
+{"text": "would it be okay to change your name to daphne", "intent": "change ai name"}
+{"text": "id like to change your name to max", "intent": "change ai name"}
+{"text": "what do you think about changing your name to heath", "intent": "change ai name"}
+{"text": "lets start calling you allan", "intent": "change ai name"}
+{"text": "i would like to start calling you heath", "intent": "change ai name"}
+{"text": "what do you think about me calling you cora", "intent": "change ai name"}
+{"text": "im going to call you xander", "intent": "change ai name"}
+{"text": "can we change your name to clara", "intent": "change ai name"}
+{"text": "how about lets start calling you juliette", "intent": "change ai name"}
+{"text": "i want to start calling you owen", "intent": "change ai name"}
+{"text": "can i call you arnold instead", "intent": "change ai name"}
+{"text": "how about i call you sue", "intent": "change ai name"}
+{"text": "can i start calling you fred", "intent": "change ai name"}
+{"text": "can i rename you bob", "intent": "change ai name"}
+{"text": "i want to rename you joe", "intent": "change ai name"}
+{"text": "your new name is joe, okay", "intent": "change ai name"}
+{"text": "i'm going to start calling you joe", "intent": "change ai name"}
+{"text": "you are going to be called joe now", "intent": "change ai name"}
+{"text": "start responding to joe", "intent": "change ai name"}
+{"text": "i'm changing your name to joe", "intent": "change ai name"}
+{"text": "i'd like to start calling you buddy", "intent": "change ai name"}
+{"text": "i'd like to start calling you jake", "intent": "change ai name"}
+{"text": "i'd like to start calling you lover", "intent": "change ai name"}
+{"text": "i'd like to start calling you friend", "intent": "change ai name"}
+{"text": "i want to change your name to shelby", "intent": "change ai name"}
+{"text": "i'd rather call you gloria", "intent": "change ai name"}
+{"text": "i'm changing your name to goliath", "intent": "change ai name"}
+{"text": "is it okay to change your name to samson", "intent": "change ai name"}
+{"text": "can i call you james instead", "intent": "change ai name"}
